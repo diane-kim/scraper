@@ -1,0 +1,2381 @@
+Blade	Speed	Control	Stiffness 	Hardness 	Consistency 	Overall	Ratings	Price
+(No Brand) 2 Faced Grinder	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	0
+(No Brand) Agilite Balsa Texalium Blade	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	52
+(No Brand) ALPEN WOOD BLADE (Dingo + Swiss)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	94
+(No Brand) ARTTE Nuvola	6.5	9.5	5.0	5.2	10.0	9.8	1	120
+(No Brand) Balistic Glasfibre	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	0
+(No Brand) Borneo Beast Diamond Carbon Signanture Series	10.0	10.0	10.0	10.0	10.0	10.0	1	1000
+(No Brand) Brodmann Blades	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	69
+(No Brand) D.Tector	5.0	9.0	3.0	5.2	10.0	(not rated)	1	45
+(No Brand) Denis Kalachevskyy	9.0	6.0	5.0	6.7	10.0	9.0	1	65
+(No Brand) Dimanka Hurricane 5	10.0	8.8	7.0	8.2	10.0	9.9	1	80
+(No Brand) Gauder Concept For Allround	7.0	9.0	5.0	6.7	(not rated)	9.0	1	33
+(No Brand) Gold Cup	9.0	9.0	5.0	6.7	10.0	9.0	1	5
+(No Brand) GuoYueHua Low Carbon Life	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	13
+(No Brand) Hermoso	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	0
+(No Brand) Jaguar	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	20
+(No Brand) Kosaka Carbon	7.0	8.0	5.0	5.2	0.0	7.4	2	13
+(No Brand) KWS	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	54
+(No Brand) L-2	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	0
+(No Brand) Leoviz Liberty	8.3	9.0	5.0	6.7	7.5	8.8	2	32
+(No Brand) Levi OFF-	8.0	9.2	0.0	2.2	(not rated)	8.8	1	40
+(No Brand) Maestro-Lithuania	9.0	9.0	7.0	8.2	(not rated)	9.5	1	25
+(No Brand) Matsushita Pro Model	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	0
+(No Brand) N8 TT Dragon L1	8.0	9.0	7.0	8.2	10.0	8.0	1	50
+(No Brand) Nimatsu	7.8	10.0	5.0	5.2	10.0	(not rated)	1	0
+(No Brand) Orina Gagak 01	9.0	8.5	5.0	5.2	10.0	8.9	1	20
+(No Brand) Palatinus Custom	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	120
+(No Brand) Power Kevlar Carbon	9.3	7.0	7.5	6.7	10.0	9.3	2	50
+(No Brand) Radius Carbon	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	32
+(No Brand) Rapscallion (Ross Leidy)	9.8	9.0	3.0	7.5	10.0	10.0	2	140
+(No Brand) Razer L-2	8.3	8.4	6.0	4.5	10.0	8.4	2	15
+(No Brand) Razer L9	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	45
+(No Brand) Reach C-1 (Carbon)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	10
+(No Brand) REACH E-5	8.0	7.0	3.0	3.7	10.0	(not rated)	1	45
+(No Brand) Rosen	10.0	8.0	7.0	8.2	(not rated)	9.8	1	70
+(No Brand) Ross Leidy Custom	10.0	10.0	5.0	6.7	10.0	10.0	1	0
+(No Brand) Siam Pingpong Handmade	8.5	9.5	5.0	5.2	10.0	9.0	1	0
+(No Brand) Sypachevskii	7.0	8.0	7.0	5.2	10.0	9.0	1	65
+(No Brand) TImo Boll ZLC	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	0
+(No Brand) Uberpong Blade	5.5	5.0	4.0	4.5	2.5	3.5	2	30
+(No Brand) Victas Quartet Speed	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	150
+(No Brand) Vodak Diolen Special Custom	8.3	9.0	7.0	3.7	10.0	(not rated)	1	135
+(No Brand) XXX Black Mix	8.5	8.0	5.0	6.7	10.0	8.0	2	43
+Adidas Accelum High Speed Carbon	7.0	7.0	10.0	10.0	5.0	(not rated)	1	129
+Adidas Avenger 5	8.5	8.5	5.0	6.7	10.0	9.0	1	75
+Adidas Avenger 7	9.3	7.9	6.5	7.2	10.0	9.3	6	79
+Adidas Avenger Carbon	9.0	9.0	5.0	6.7	10.0	9.3	3	99
+Adidas C100 OFF	7.6	8.5	2.8	5.0	10.0	8.5	7	60
+Adidas C300 OFF	7.8	7.9	4.7	6.2	7.5	8.5	6	100
+Adidas C500 OFF+	9.2	8.8	6.4	6.2	7.3	8.9	14	100
+Adidas Challenge Force	8.6	9.6	4.3	4.8	10.0	9.4	4	69
+Adidas Challenge Light	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	0
+Adidas Challenge Speed	9.0	8.7	6.4	6.2	9.4	9.1	18	49
+Adidas FiberTec Classic	8.6	9.4	4.0	5.6	10.0	9.6	6	68
+Adidas FiberTec Extreme	9.6	8.4	6.4	6.7	10.0	9.4	9	159
+Adidas FiberTec Power	9.5	9.2	7.2	8.0	10.0	9.3	6	199
+Adidas Hypertouch	9.0	8.9	5.0	4.3	10.0	9.2	8	150
+Adidas Protex D20	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	110
+Adidas Protex D30	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	150
+Adidas Radix Express	9.5	9.5	5.0	4.5	10.0	9.3	7	180
+Adidas Radix Impress	8.5	9.0	7.0	6.7	10.0	9.3	1	199
+Adidas Radix Ultimate	9.6	9.4	5.0	6.7	10.0	9.9	4	137
+Adidas Strike Carbon	9.5	8.7	5.7	7.0	8.3	9.1	7	120
+Adidas Strike Wood 5	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	48
+Adidas Strike Wood 7	8.5	9.0	5.0	5.2	10.0	9.5	1	48
+Adidas Synchro Plus	4.0	4.0	3.0	2.2	0.0	4.0	1	39
+Adidas Synchro Unity	7.0	10.0	5.0	5.2	10.0	9.3	1	35
+Adidas V1.1 ALL	8.0	8.7	6.2	6.4	10.0	8.8	5	130
+Adidas V1.3 OFF-	8.4	8.7	6.0	5.8	10.0	9.5	7	110
+Adidas V1.5 OFF-	8.5	8.4	5.9	6.7	8.3	8.4	7	110
+Air Touch01 All Wood	7.0	9.0	5.0	6.7	5.0	8.0	1	16
+Alpha Rosen	9.0	9.0	7.0	8.2	10.0	9.0	1	80
+Alser Allround 5	7.3	8.7	5.0	5.2	10.0	8.4	4	55
+American Hinoki Bamboo	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	55
+American Hinoki WRC-9mm	9.3	9.3	5.0	3.5	7.5	9.3	3	75
+Andro Andro TP Ligna Ci Off	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	130
+Andro Blax ALL+	8.5	7.0	5.0	5.7	8.3	7.7	4	45
+Andro Blax OFF	9.4	6.5	6.5	5.2	10.0	7.6	4	43
+Andro Carbon Compact OFF-	8.2	9.0	6.0	6.0	10.0	9.0	2	0
+Andro Core 7 OFF	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	60
+Andro Core 7 OFF+	9.8	9.7	6.5	7.1	10.0	9.9	4	45
+Andro CS5 ALL+	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	40
+Andro CS5 OFF-	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	40
+Andro CS7 Pro	7.0	9.0	10.0	6.7	(not rated)	(not rated)	2	59
+Andro CS7 Tour	8.9	9.5	7.0	6.7	8.3	9.5	3	59
+Andro CS7 Velocity	9.2	7.6	6.5	7.5	5.0	7.7	6	55
+Andro CSV ALL+	8.3	9.3	5.0	5.7	7.5	9.2	3	39
+Andro CSV Carbon OFF++	9.0	8.9	6.2	6.7	9.0	9.5	6	77
+Andro CSV OFF	9.0	9.4	6.0	6.7	10.0	9.4	4	49
+Andro CSV OFF+	9.4	9.3	6.2	7.5	10.0	9.6	10	60
+Andro CSV OFF-	8.3	9.6	5.5	5.2	8.3	9.5	4	49
+Andro Defcon DEF	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	66
+Andro Fibercomp DEF	7.4	9.1	5.1	5.7	9.2	9.0	17	46
+Andro Flaxonite Cruiser ALL	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	61
+Andro Flaxonite Driver OFF	8.9	9.5	5.7	6.7	10.0	9.5	3	61
+Andro HiLoom	9.2	8.6	5.0	6.0	7.5	9.0	2	134
+Andro J. M. Saive Kinetic OFF	7.5	7.5	6.0	6.7	10.0	8.3	2	45
+Andro J. M. Saive Kinetic OFF-	8.0	8.5	5.0	3.7	10.0	9.2	3	45
+Andro Kanter ALL+	7.2	8.8	4.0	3.7	10.0	8.5	2	56
+Andro Kanter Explorer OFF	9.9	10.0	6.3	7.7	10.0	9.9	3	55
+Andro Kanter OFF+	9.4	9.3	6.0	6.3	10.0	9.5	7	45
+Andro Kinetic ALL	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	47
+Andro Kinetic ALL+	8.3	9.4	6.0	6.0	10.0	9.4	2	43
+Andro Kinetic CF Carbo-Aramid OFF	9.0	8.6	6.8	7.9	8.3	9.0	4	100
+Andro Kinetic CF Carbon OFF+	9.3	7.8	5.0	8.2	5.0	8.5	4	90
+Andro Kinetic CF Carbon OFF-	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	85
+Andro Kinetic CF Kevlar-Carbon OFF	8.8	8.0	7.4	8.0	8.6	9.4	7	70
+Andro Kinetic CF Light ALL+	7.5	10.0	5.0	6.7	10.0	(not rated)	1	79
+Andro Kinetic CF Light OFF	8.8	9.5	5.7	6.7	8.3	8.9	3	79
+Andro Kinetic CF Light OFF+	9.4	8.5	6.6	7.0	10.0	9.5	7	79
+Andro Kinetic CF Light OFF-	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	65
+Andro Kinetic CF Titanium ALL+	8.0	9.0	7.0	6.7	8.3	9.3	4	100
+Andro Kinetic Christian Suss Hinoki ALL+	8.2	8.8	5.0	5.7	10.0	8.3	3	47
+Andro Kinetic Christian Suss Hinoki OFF	8.4	8.0	5.5	5.2	8.3	8.9	4	47
+Andro Kinetic Explorer OFF+	8.7	6.3	5.7	6.2	6.7	6.6	3	45
+Andro Kinetic OFF	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	45
+Andro Kinetic OFF+	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	45
+Andro Kinetic Record ALL+	8.3	9.6	5.0	5.2	10.0	8.5	1	59
+Andro Kinetic Record OFF	8.9	9.2	2.5	6.0	10.0	9.4	2	59
+Andro Kinetic Record OFF+	9.5	9.0	7.0	6.7	10.0	9.0	1	59
+Andro Kinetic Record OFF-	8.0	9.1	4.0	3.7	7.5	9.3	2	59
+Andro Kinetic Supreme ALL	7.5	8.3	4.4	5.0	9.4	8.7	9	54
+Andro Kinetic Supreme ALL+	8.3	9.2	5.8	6.4	6.3	9.0	5	58
+Andro Kinetic Supreme Carbon OFF	9.0	7.7	8.0	8.8	8.3	8.0	3	100
+Andro Kinetic Supreme Carbon OFF+	9.3	7.3	8.5	8.4	0.0	7.0	2	86
+Andro Kinetic Supreme OFF	8.2	9.0	6.0	5.6	9.0	8.7	7	58
+Andro Kinetic Supreme OFF-	8.5	8.8	5.8	6.7	10.0	8.9	13	55
+Andro Kinetic Supreme OFF- Kiso Hinoki Zylon	8.7	9.5	5.6	6.7	9.0	9.3	5	135
+Andro Kinetic Supreme Zylon/Kiso-Hinoki OFF-	8.2	8.8	6.0	6.7	8.3	9.2	8	135
+Andro Ligna ALL+	8.1	9.6	5.0	5.2	10.0	9.2	5	102
+Andro Ligna FR OFF	9.6	9.7	6.8	7.6	10.0	9.5	10	150
+Andro Ligna OFF	9.3	9.5	6.5	6.9	9.6	9.4	14	150
+Andro Ligna OFF+	9.6	9.4	5.8	6.7	10.0	9.6	11	150
+Andro Ligna Tour OFF	9.5	9.3	6.7	7.7	10.0	9.4	7	140
+Andro Nightmare ALL+	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	30
+Andro Nightmare OFF	8.5	8.5	5.0	5.2	10.0	8.8	1	50
+Andro Novacell OFF	9.3	10.0	5.0	6.7	10.0	10.0	2	59
+Andro Parade DEF	7.0	8.5	3.0	3.7	5.0	8.8	1	69
+Andro Performance OFF	10.0	8.0	5.0	6.7	10.0	9.0	1	45
+Andro ProLoom	8.8	9.9	4.0	5.2	10.0	9.6	2	134
+Andro Super Core ALL	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	58
+Andro Super Core ALL+	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	25
+Andro Super Core Carbon Light (CL) ALL+	6.8	8.7	4.6	2.8	7.5	8.7	6	60
+Andro Super Core Carbon Light (CL) OFF	9.1	8.9	6.6	7.6	9.4	9.1	10	50
+Andro Super Core Carbon Light (CL) OFF+	9.5	8.0	8.2	8.3	10.0	9.1	8	60
+Andro Super Core Carbon OFF	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	60
+Andro Super Core Cell ALL	7.2	9.3	5.0	3.7	10.0	9.4	1	54
+Andro Super Core Cell ALL+	7.3	9.0	3.7	4.6	9.2	8.8	7	54
+Andro Super Core Cell Carbon OFF	8.3	9.1	6.6	7.6	8.6	9.0	9	87
+Andro Super Core Cell OFF	9.1	9.0	5.1	5.6	9.3	9.2	18	65
+Andro Super Core Cell OFF+	9.3	8.8	6.3	7.0	9.6	9.2	13	65
+Andro Super Core Cell OFF-	7.9	8.1	5.3	6.7	8.0	8.0	8	54
+Andro Super Core OFF	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	40
+Andro Super Core OFF-	8.1	7.6	6.0	7.5	(not rated)	8.3	2	58
+Andro Temper Tech ALL+	8.0	9.6	6.3	6.2	9.4	9.3	41	51
+Andro Temper Tech OFF	9.1	9.2	7.1	6.4	8.6	9.3	15	70
+Andro Temper Tech OFF+	9.6	9.2	7.3	8.1	9.4	9.6	29	62
+Andro Temper Tech OFF-	8.5	9.3	4.9	6.0	9.8	9.1	31	45
+Andro TIMBER 5 OFF	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	50
+Andro Treiber CI OFF	9.9	9.8	6.0	7.5	10.0	9.8	2	103
+Andro Treiber CO OFF	10.0	10.0	6.3	7.7	10.0	10.0	3	103
+Andro Treiber FI OFF	9.4	9.8	7.0	6.7	10.0	9.9	2	96
+Andro Treiber FO OFF	9.4	9.5	7.0	8.2	10.0	9.7	1	96
+Andro Treiber G	9.0	8.1	6.0	6.3	8.8	8.5	4	75
+Andro Treiber H	9.0	9.2	5.2	5.5	9.3	9.3	15	88
+Andro Treiber K	9.0	9.5	4.9	5.5	9.5	9.5	34	80
+Andro Treiber Q	9.1	9.5	5.3	5.3	9.2	9.4	20	70
+Andro Treiber Z	9.3	9.5	5.9	6.2	9.2	9.5	55	125
+Andro Tronum Aratox OFF+	9.4	9.3	7.0	7.2	10.0	9.3	5	71
+Andro Tronum Carbotox OFF	8.7	9.1	7.0	6.2	8.3	9.1	4	71
+Andro Wanokiwami AO OFF	9.0	9.7	5.8	6.1	10.0	9.6	13	145
+Andro Wanokiwami Midori DEF	8.0	10.0	5.0	6.7	10.0	9.5	1	145
+Andro Wanokiwami Ren OFF	10.0	10.0	5.7	7.7	10.0	10.0	3	225
+Animus Diana Rosewood	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	100
+Animus Iupiter 5	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	100
+Animus Iupiter Serie 2	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	71
+Animus Mars 7	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	100
+Animus TERMINUS SERIES 1 ZLC Off+	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	200
+Animus TERMINUS SERIES 1 ZLC | OFF+	9.0	8.5	5.0	7.5	10.0	9.3	2	200
+Animus Vantaggio	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	155
+Animus Venus 7	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	125
+Animus Victoria	6.5	9.0	6.0	7.5	5.0	9.0	2	133
+Animus Victoria 2	7.5	8.5	7.0	8.2	5.0	8.5	1	133
+Animus Virtus 5	9.0	9.0	3.0	6.7	5.0	9.0	1	95
+Animus Vulcanus 5	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	100
+Ariex Excellent Hinoki	10.0	9.5	10.0	2.2	(not rated)	10.0	1	180
+Ariex Ferocious 765S	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	0
+Ariex Hinoki 1-Ply	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	60
+Ariex Sprint Carbon	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	70
+Ariex Standard Hinoki	8.0	10.0	7.0	2.2	10.0	(not rated)	1	85
+Ariex Stormed 568S	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	80
+Armstrong Castelian Hinoki 1-ply 701	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	135
+Armstrong Castelian Hinoki 1-ply 702	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	135
+Armstrong Castelian Hinoki 1-ply 703	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	135
+Avalox AVX-V1	7.0	9.0	3.0	6.7	10.0	8.0	1	55
+Avalox AVX-V2	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	56
+Avalox Blue Thunder 550 (BT550)	7.6	8.7	3.9	5.0	6.7	8.7	16	65
+Avalox Blue Thunder 555 (BT555)	8.0	8.4	4.4	5.0	9.3	9.5	8	65
+Avalox Blue Thunder 777 (BT777)	9.0	8.5	6.0	6.9	7.8	9.1	12	63
+Avalox Edge	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	44
+Avalox Edge 7	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	49
+Avalox Hado	8.8	9.1	6.5	5.0	9.2	9.1	6	145
+Avalox Hinoki-Aramid	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	135
+Avalox J-Aramid	9.4	8.9	8.3	8.6	9.4	9.0	10	125
+Avalox J-Power	9.2	8.7	6.9	6.6	9.4	9.1	10	90
+Avalox J-Tech	8.3	9.5	5.3	3.9	10.0	9.4	7	85
+Avalox Ma Wenge C555 Carbon	8.9	8.9	5.0	5.9	10.0	9.2	9	92
+Avalox Monoset	10.0	8.0	10.0	10.0	10.0	10.0	1	110
+Avalox Nittaku Avalox P777 FL	10.0	10.0	5.0	6.7	10.0	10.0	1	200
+Avalox P500	8.3	9.0	4.6	5.5	9.0	9.4	23	65
+Avalox P600	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	60
+Avalox P700	8.9	9.0	5.7	5.7	9.0	9.6	26	77
+Avalox P900	9.1	9.3	5.0	5.2	10.0	9.4	2	100
+Avalox Ruiba	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	100
+Avalox Speed 90	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	205
+Avalox Tosios	9.1	9.0	5.0	6.0	10.0	9.8	2	90
+Avalox Triton	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	82
+Banda Allround	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	55
+Banda Dacota	9.0	9.0	6.0	6.7	10.0	9.2	2	100
+Banda Gemini Off-	8.0	8.0	5.0	5.2	(not rated)	8.0	1	66
+Banda Pegasus	6.1	8.3	4.5	6.3	5.0	7.3	4	38
+Banda Taurus WRB	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	65
+BBC 8-9-8	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	115
+BBC 9-10-9	8.5	9.6	7.0	4.1	10.0	9.3	4	115
+BBC All Around	6.7	9.2	5.7	5.2	5.0	9.3	3	55
+BBC Anvil	8.5	8.0	10.0	8.2	(not rated)	8.5	1	115
+BBC CarboFlex Alpha	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	105
+BBC Excalibur	8.0	8.5	5.0	5.2	10.0	9.0	1	130
+BBC Fiddler	8.0	9.0	3.0	5.2	10.0	10.0	1	85
+BBC Flash Drive 3.0	8.7	8.0	3.0	6.7	10.0	9.0	1	75
+BBC Ghost Hinoki	9.0	8.0	5.0	5.2	10.0	9.0	1	150
+BBC NINE	9.2	9.5	5.7	5.7	10.0	9.7	4	175
+BBC Quad-Trip	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	9.0	1	135
+BBC Ramin	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	85
+BBC Ramin Cross	8.5	9.0	3.0	5.2	(not rated)	9.0	1	85
+BBC Single-ply Cypress	10.0	9.8	8.0	0.7	10.0	10.0	4	75
+BBC Three-ply Cypress	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	85
+BBC TriFlex Carbon	10.0	10.0	5.0	6.7	10.0	10.0	3	135
+Best of Five Carbon 2000 Allround	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	70
+Best of Five Carbon 2000 Defence	4.5	9.5	5.0	5.2	10.0	9.0	2	70
+Best of Five Carbon Light Allround	8.4	8.2	7.0	6.7	5.0	8.4	2	63
+Best of Five Dynatec Ti	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	63
+Best of Five Exact ALL+	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	28
+Best of Five Impuls OFF-	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	28
+Best of Five Kevlar Light	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	63
+Best of Five Twinblade	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	65
+Best of Five V3 ALL+	7.0	9.8	3.0	2.2	10.0	9.3	1	50
+Best of Five V5 OFF	9.4	8.8	6.0	6.7	5.0	9.1	2	55
+BLutenkirsche 1 Ply B3015	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	80
+BLutenkirsche B 4007	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	50
+BLutenkirsche B-3002	8.5	9.5	3.0	3.7	10.0	9.5	1	15
+BLutenkirsche B-3003	8.0	8.0	5.0	3.7	5.0	7.0	1	15
+BLutenkirsche B-3004	9.0	8.0	7.0	6.7	10.0	8.0	1	25
+BLutenkirsche B-3008	8.0	8.5	5.0	5.2	(not rated)	8.5	1	50
+BLutenkirsche B-CARBON	8.5	7.9	7.0	6.7	5.0	6.0	2	12
+BLutenkirsche Black Mamba Carbon Offensive	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	35
+BLutenkirsche Black Mamba Offensive Super Light	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	30
+BLutenkirsche Chinese Offensive	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	29
+BLutenkirsche Mamba Strike Special Edition	7.2	9.5	5.0	5.2	10.0	9.0	1	25
+BLutenkirsche Mamba Venom Offensive	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	25
+BLutenkirsche Power Carbon	10.0	8.0	7.0	3.4	10.0	9.5	2	40
+Bomb Everest	10.0	9.7	5.0	4.5	7.5	9.8	3	230
+Butterfly Adolescen	8.4	8.8	5.0	5.2	(not rated)	8.1	2	62
+Butterfly Aeolus S	9.2	8.0	7.0	8.2	8.3	9.2	6	90
+Butterfly All - Supa	8.0	9.0	5.0	5.2	5.0	9.0	1	45
+Butterfly All Hinoki 5	8.0	8.5	4.5	4.3	8.8	8.2	5	50
+Butterfly All Hinoki 7	8.8	8.2	5.0	4.9	10.0	8.9	5	60
+Butterfly AMC 3000	5.0	6.0	5.0	2.2	5.0	6.0	1	29
+Butterfly Amultart ZL Carbon	9.6	8.7	6.8	7.7	9.4	9.5	44	230
+Butterfly Andrzej Grubba	6.7	8.9	3.7	4.6	8.4	8.7	19	53
+Butterfly Andrzej Grubba 15	7.5	8.0	3.0	5.2	10.0	9.0	1	53
+Butterfly Andrzej Grubba Carbon	8.1	9.1	7.7	8.2	8.8	9.1	10	60
+Butterfly Apolonia ZLC	9.2	10.0	6.5	3.7	10.0	10.0	2	269
+Butterfly Arylate	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	0
+Butterfly Balsa Carbo X3	8.0	8.7	5.5	5.2	6.3	8.5	4	65
+Butterfly Balsa Carbo X5	8.3	8.5	4.6	4.3	8.5	8.9	53	85
+Butterfly Balsa OFF	8.5	8.7	4.5	2.8	8.8	8.7	4	69
+Butterfly Bastian Steger	7.3	8.9	5.0	5.2	10.0	8.0	4	52
+Butterfly Bazelart	7.9	9.1	3.3	4.2	8.3	9.0	3	99
+Butterfly Biside	8.0	9.0	3.0	2.2	10.0	9.5	1	100
+Butterfly Bolgard	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	90
+Butterfly Boll Allround	7.6	8.9	5.0	5.6	7.5	8.5	4	60
+Butterfly Boll Allround XXS	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	64
+Butterfly Boll Control	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	55
+Butterfly Boll Offensive	8.4	8.0	5.0	4.7	6.7	8.4	3	65
+Butterfly Boll TriCarbon	9.7	7.1	8.2	9.0	8.3	9.1	38	115
+Butterfly Brisker Light	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	55
+Butterfly Chiang Peng Lung	9.5	8.5	7.0	5.2	10.0	9.5	1	180
+Butterfly Chinese AL	9.0	8.3	7.0	7.2	10.0	10.0	3	95
+Butterfly Chinese EX	9.1	8.6	5.0	8.2	10.0	9.1	1	64
+Butterfly Chinese Real	7.7	8.1	5.7	6.7	10.0	7.7	3	50
+Butterfly Chinese Tamca ULC	8.9	8.2	5.7	7.9	10.0	9.2	7	135
+Butterfly Chuan Chih Yuan	7.3	7.8	6.5	6.3	8.3	8.0	4	75
+Butterfly Chuan Chih Yuan Gold Medalist Limited Edition	9.0	9.0	7.0	8.2	10.0	9.0	1	250
+Butterfly Clarty	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	0
+Butterfly Clearfield	8.6	7.2	7.0	7.5	(not rated)	7.7	2	48
+Butterfly Cofferlait Arylate Carbon	8.0	8.7	6.2	4.9	10.0	8.7	8	117
+Butterfly Coleus	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	1	0
+Butterfly Cresail	8.6	9.1	6.0	8.2	10.0	8.5	2	120
+Butterfly Cryptate	8.2	8.5	8.5	6.1	10.0	(not rated)	2	65
+Butterfly Cutlass	6.3	8.3	6.0	5.2	7.5	8.5	3	50
+Butterfly Cypress Alpha	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	100
+Butterfly Cypress Alpha-R	8.0	9.0	5.0	2.2	10.0	8.0	1	110
+Butterfly Cypress G-Max	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	359
+Butterfly Cypress JP I-S	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	226
+Butterfly Cypress JP II-S	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	189
+Butterfly Cypress JP III-S	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	135
+Butterfly Cypress Max	9.5	8.8	6.7	2.4	6.3	8.9	4	135
+Butterfly Cypress T-Max S	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	149
+Butterfly Cypress V-Max	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	236
+Butterfly Cypress-R	8.0	9.0	7.0	3.7	10.0	9.0	1	110
+Butterfly Cypress-S	9.3	8.5	4.6	2.3	10.0	9.3	7	95
+Butterfly Defence 2 (II)	7.5	9.2	6.1	4.3	10.0	9.3	15	50
+Butterfly Defence 4 (IV)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	77
+Butterfly Defence Alpha	4.3	9.2	1.6	1.1	7.5	8.3	11	55
+Butterfly Defence Pro	7.5	7.8	5.0	4.2	10.0	8.3	4	100
+Butterfly Defence X	6.2	8.3	1.8	4.1	8.8	8.2	4	73
+Butterfly Defense 3 (III)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	70
+Butterfly Dillfer	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	100
+Butterfly Diode	6.0	9.0	3.5	4.1	10.0	7.5	2	100
+Butterfly Diode V	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	106
+Butterfly Ester	8.8	9.0	6.0	6.0	10.0	9.5	2	42
+Butterfly Extra Wing	6.3	9.0	0.0	2.2	10.0	8.5	3	78
+Butterfly Feth	6.6	8.4	4.3	4.2	10.0	8.0	4	40
+Butterfly Finewood OFF	8.0	10.0	10.0	10.0	10.0	(not rated)	1	79
+Butterfly Finewood Off-	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	40
+Butterfly Firehand	9.3	6.9	6.3	8.0	8.3	7.8	11	65
+Butterfly FREITAS ALC	8.8	9.4	5.8	5.6	10.0	9.6	9	199
+Butterfly Fukuhara Ai Pro ZLF	8.8	9.7	4.3	5.0	10.0	9.6	8	239
+Butterfly Fukuhara Ai Special	9.2	8.3	4.0	5.2	7.5	9.0	3	120
+Butterfly Garaydia ALC	8.7	8.7	5.4	6.0	9.5	8.9	11	162
+Butterfly Garaydia Revolver-R	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	150
+Butterfly Garaydia T5000	9.3	8.6	8.7	7.3	9.0	9.3	9	162
+Butterfly Garaydia ZLC	9.1	8.9	6.6	6.2	8.8	9.2	16	245
+Butterfly Gergely 21	9.4	8.1	9.6	8.8	8.8	9.1	11	250
+Butterfly Gergely Alpha	9.4	8.4	6.9	7.8	10.0	9.0	17	121
+Butterfly Gergely Carbon	9.2	8.0	8.8	7.7	9.4	9.0	30	98
+Butterfly Gionis Carbon All+	8.4	9.3	5.0	5.2	10.0	9.0	4	60
+Butterfly Gionis Carbon Def	6.9	9.0	5.0	6.0	7.5	5.3	2	65
+Butterfly Gionis Carbon Off	8.4	8.9	5.0	5.6	10.0	9.3	4	65
+Butterfly Gray X	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	0
+Butterfly Grubba Carbon	7.2	7.1	6.7	6.7	8.3	7.0	3	80
+Butterfly Grubba Pro	6.3	9.2	3.5	4.5	7.9	8.6	8	50
+Butterfly Grubba Variant	7.1	8.9	5.0	7.1	10.0	9.0	4	45
+Butterfly Guo Yue	5.5	6.8	2.7	3.3	10.0	6.0	4	80
+Butterfly H.P. Courpierce R	10.0	10.0	0.0	0.0	5.0	10.0	1	60
+Butterfly H.P.Neutrino	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	60
+Butterfly H.S. Cryzer	8.6	8.3	3.8	3.0	10.0	9.4	5	100
+Butterfly Hadraw JPV-R	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	108
+Butterfly Hadraw JPV-S	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	108
+Butterfly Hadraw Revolver-R	7.0	6.0	7.0	8.2	10.0	6.0	1	135
+Butterfly Hadraw Shield	6.2	8.7	5.0	3.7	10.0	9.0	1	135
+Butterfly Hadraw SK	7.4	7.9	5.0	4.7	10.0	8.0	5	108
+Butterfly Hadraw SR	8.0	9.0	5.0	3.7	10.0	10.0	1	110
+Butterfly Hadraw VK	8.6	8.5	5.0	6.7	10.0	9.0	3	100
+Butterfly Hadraw VR	9.2	8.2	9.0	9.4	8.8	8.4	4	121
+Butterfly Haruvatart	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	125
+Butterfly Haruvatart JP Round	10.0	8.0	7.0	6.7	10.0	9.8	2	185
+Butterfly Haruvatart ZL Carbon	9.8	7.9	7.0	8.2	10.0	9.5	3	120
+Butterfly Hinoki Pen Winner II	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	80
+Butterfly Hinoki Shake 5	5.7	9.7	4.0	3.7	10.0	9.4	3	85
+Butterfly Hinoki Shake Speedy	9.3	8.5	7.0	6.7	10.0	(not rated)	1	100
+Butterfly Hinoki Shake Swift	8.0	9.0	3.0	2.2	10.0	(not rated)	1	80
+Butterfly Holycrown	9.1	8.4	6.0	6.3	8.8	9.6	4	135
+Butterfly HP Winner	8.0	7.8	5.0	3.7	10.0	(not rated)	1	60
+Butterfly Innerforce	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	0
+Butterfly Innerforce AL	8.1	8.6	4.5	4.6	10.0	9.0	19	150
+Butterfly Innerforce ALC	8.8	9.1	5.4	5.7	9.8	9.4	33	135
+Butterfly Innerforce Layer AL	8.3	8.8	3.0	3.7	5.0	9.3	3	115
+Butterfly Innerforce Layer ALC	9.1	9.4	4.3	4.9	10.0	9.5	29	160
+Butterfly Innerforce Layer ALC.S	8.6	9.2	4.2	3.8	8.9	9.0	9	150
+Butterfly Innerforce Layer ZLC	9.1	9.2	5.3	5.5	8.6	9.4	10	215
+Butterfly Innerforce Layer ZLF	8.5	9.5	5.0	5.2	9.2	9.5	7	189
+Butterfly Innerforce T5000	9.3	8.7	6.5	7.8	9.7	9.6	19	150
+Butterfly Innerforce ULC	9.0	8.9	5.8	6.1	8.6	9.2	11	125
+Butterfly Innerforce ZLC	9.2	8.9	4.8	5.8	9.0	9.4	59	275
+Butterfly Innerforce ZLF	8.9	9.0	3.8	4.8	9.2	9.3	27	170
+Butterfly Innershield Layer ZLF	6.8	9.5	3.0	3.7	10.0	9.1	2	189
+Butterfly Innershield ZLF	6.7	9.4	2.5	2.8	10.0	8.5	7	184
+Butterfly Iolite	9.0	8.2	6.7	6.3	7.9	9.0	7	103
+Butterfly Iolite Neo	9.5	8.5	5.7	5.5	8.8	9.4	15	155
+Butterfly Ishlion	9.0	8.2	6.7	7.2	9.0	8.8	16	150
+Butterfly Jonyer Hinoki	7.3	8.5	3.0	4.0	8.8	8.2	19	100
+Butterfly Jonyer Hinoki Special	7.5	8.2	4.0	4.3	8.3	8.4	6	134
+Butterfly Joo Se Hyuk	7.2	8.8	6.5	6.6	7.8	9.1	26	95
+Butterfly Jun Mizutani	9.5	8.8	6.0	6.7	9.0	9.4	41	249
+Butterfly Jun Mizutani Super ZLC	9.6	8.9	6.7	6.7	10.0	9.4	24	374
+Butterfly Jun Mizutani ZLC	9.0	8.9	5.8	6.2	9.4	9.4	9	249
+Butterfly Kazan	7.0	8.0	7.0	6.7	10.0	7.5	2	0
+Butterfly Kenny Pro	6.8	8.2	5.0	3.7	(not rated)	7.1	1	100
+Butterfly KENTA ALC FL	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	175
+Butterfly Kenta Matsudaira ALC	8.7	9.3	3.3	6.2	10.0	8.8	4	189
+Butterfly Keyshot	8.3	8.6	5.4	4.7	9.3	9.4	7	189
+Butterfly Keyshot Alpha	8.7	8.6	5.0	2.7	7.5	9.5	4	0
+Butterfly Keyshot Light	8.6	8.9	5.4	4.2	8.2	9.0	19	95
+Butterfly Kim Taek Soo	9.6	7.3	9.0	4.1	8.3	8.0	4	100
+Butterfly Kiso Hinoki V	8.0	8.9	5.0	4.5	9.4	9.1	8	50
+Butterfly Kiso Hinoki VII	8.7	8.2	6.3	4.7	7.5	9.0	3	85
+Butterfly Kitoh Pro	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	0
+Butterfly Klampar	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	0
+Butterfly Kong Linghui	7.9	8.4	3.4	3.3	8.0	8.6	7	150
+Butterfly Kong Linghui Euro	8.0	8.0	5.9	5.8	8.6	8.0	16	90
+Butterfly Kong Linghui Special	8.5	8.7	5.4	4.9	9.2	9.1	12	100
+Butterfly Korbel MagicHand	8.9	7.8	6.0	6.0	10.0	8.3	3	78
+Butterfly Korbel SK7	8.4	8.7	6.3	5.2	9.5	9.1	25	80
+Butterfly Korbel Speed	7.6	8.1	5.5	6.0	7.0	7.7	9	91
+Butterfly Kreanga Aeros Off+	9.3	8.2	7.3	7.9	10.0	9.1	9	140
+Butterfly Kreanga Carbon	9.3	7.4	7.5	8.4	9.4	9.2	22	400
+Butterfly Kreanga PowerKev Carbon	9.7	9.6	0.0	2.6	10.0	9.5	2	110
+Butterfly Kreanga Powerspin	8.4	7.8	5.9	7.1	6.0	8.2	8	65
+Butterfly Kumpuru	8.4	8.7	7.0	5.2	10.0	8.9	3	100
+Butterfly Lapuhta	10.0	9.5	6.5	3.7	10.0	9.5	2	69
+Butterfly Lars Hielscher	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	80
+Butterfly Lejumu	6.5	7.5	10.0	6.7	5.0	7.0	2	56
+Butterfly Liu Shiwen	9.2	9.5	3.5	4.1	9.2	9.6	40	259
+Butterfly Liu Shiwen ZLF	9.4	9.5	4.0	4.7	10.0	9.7	3	259
+Butterfly Marcos Freitas ALC	9.0	9.2	5.0	5.2	9.3	9.3	11	203
+Butterfly Matsushita Pro	6.0	8.7	2.9	4.0	9.4	8.5	10	50
+Butterfly Matsushita Pro Alpha	7.5	9.5	3.0	4.5	10.0	9.0	2	140
+Butterfly Matsushita Pro Special	7.1	9.3	6.5	4.5	10.0	8.6	4	120
+Butterfly Maze Advance	5.8	9.8	6.0	6.2	10.0	9.7	4	47
+Butterfly Maze Magic	8.5	8.0	5.0	6.7	5.0	8.3	1	45
+Butterfly Maze Passion	8.0	8.9	5.7	6.6	9.5	8.8	13	65
+Butterfly Maze Performance	8.4	8.4	5.1	3.5	9.4	8.9	14	70
+Butterfly Maze T-Tec ALL+	7.5	8.5	8.5	7.1	10.0	8.9	5	60
+Butterfly Maze T-Tec OFF	8.0	8.3	5.1	6.1	7.9	8.7	8	85
+Butterfly Mazunov	8.8	7.7	6.7	8.1	8.8	8.6	14	80
+Butterfly Michael Maze	8.6	8.5	5.2	6.1	9.2	9.3	51	250
+Butterfly Millerga	8.1	8.8	3.2	4.6	10.0	8.7	5	49
+Butterfly Moonbeam	9.2	6.6	8.3	6.7	10.0	8.8	15	300
+Butterfly Nitchugo Super	8.9	8.4	7.5	7.0	10.0	9.0	7	50
+Butterfly Oh Sang Eun	7.8	8.9	4.9	4.9	9.3	9.0	20	65
+Butterfly Paramount 7.5	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	235
+Butterfly Perdir	9.0	9.5	5.0	5.2	10.0	9.5	1	0
+Butterfly Petr Korbel	8.3	8.6	5.0	5.4	8.6	8.9	73	63
+Butterfly Phalanx II	7.9	8.9	5.0	5.2	10.0	9.0	3	56
+Butterfly Photino	9.4	8.4	5.4	5.3	9.7	9.6	27	200
+Butterfly Photino Light	9.4	8.3	4.4	5.2	9.2	9.1	14	159
+Butterfly Power 7	9.0	8.4	5.2	5.5	6.1	8.8	13	60
+Butterfly Power Defence	8.0	7.5	10.0	8.2	10.0	8.3	2	55
+Butterfly Power Drive	8.5	8.8	5.0	4.2	10.0	9.2	3	0
+Butterfly Power Drive II	8.9	9.1	3.0	4.1	10.0	9.9	4	80
+Butterfly Primo Powerfeeling	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	0
+Butterfly Primo Vitesse	8.4	8.4	6.5	6.3	10.0	8.6	11	100
+Butterfly Primorac	7.7	8.8	4.5	4.9	8.4	8.7	73	50
+Butterfly Primorac 2000	8.3	8.4	5.0	4.8	10.0	9.2	4	40
+Butterfly Primorac 2017	7.5	8.0	3.0	5.2	5.0	7.5	1	45
+Butterfly Primorac Carbon	9.3	7.4	7.2	7.9	9.2	8.9	52	108
+Butterfly Primorac EX	8.3	9.2	4.8	3.9	10.0	9.2	16	68
+Butterfly Ranunculus	(not rated)	(not rated)	7.0	8.2	(not rated)	(not rated)	1	0
+Butterfly Redox	7.8	8.2	5.0	3.7	10.0	8.5	1	63
+Butterfly Retriever	7.5	9.0	7.0	2.2	10.0	10.0	1	115
+Butterfly Reygundo	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	120
+Butterfly Ryu Seung Min G Max	9.7	8.7	6.8	3.9	10.0	9.6	4	120
+Butterfly Ryu Seung Min G Max T5000	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	140
+Butterfly Ryu Seung Min Max	9.8	7.0	10.0	2.2	10.0	9.9	1	200
+Butterfly Ryu Seung Min ZLC Japanese	9.0	8.6	5.0	3.7	10.0	9.4	1	350
+Butterfly SA-01	5.8	9.2	5.0	3.7	(not rated)	9.0	1	58
+Butterfly Salvo	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	0
+Butterfly Sardius	9.5	7.0	8.3	8.9	8.3	8.8	51	135
+Butterfly Schlager Aramid Carbon OFF	8.3	9.5	5.0	3.0	10.0	9.0	2	150
+Butterfly Schlager Carbon	9.5	7.3	8.5	8.9	9.4	9.0	48	300
+Butterfly Schlager Carbon Light	9.2	8.1	6.0	7.0	6.7	9.3	9	150
+Butterfly Schlager Inspire	9.6	7.2	7.0	8.2	10.0	9.0	1	61
+Butterfly Schlager Precision	7.6	8.1	5.1	7.0	8.3	8.4	15	71
+Butterfly SCS-2000	7.5	7.3	4.0	5.2	2.5	7.7	2	35
+Butterfly Senkoh 6	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	0
+Butterfly Senkoh 85	7.8	8.3	8.5	4.5	10.0	8.0	3	55
+Butterfly Senkoh 90	8.9	8.4	6.2	5.9	10.0	9.2	5	75
+Butterfly Senkoh FT-S	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	50
+Butterfly Senkoh HCK	9.0	8.0	5.0	5.2	10.0	8.0	1	85
+Butterfly Senkoh MAX	9.4	8.1	5.9	8.3	10.0	9.0	7	75
+Butterfly Senkoh Special 90	9.0	9.0	10.0	8.2	10.0	9.0	1	76
+Butterfly Senkoh Special 92	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	70
+Butterfly Senkoh-1	8.2	8.4	7.3	3.7	8.0	8.5	5	85
+Butterfly Senkoh-5	8.0	9.0	5.0	3.7	10.0	8.0	2	53
+Butterfly Shamada	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	45
+Butterfly SK Carbon	8.1	8.7	5.3	6.7	8.3	9.0	4	106
+Butterfly SK Classic	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	89
+Butterfly SK7	8.4	8.7	4.8	4.2	8.8	8.7	5	99
+Butterfly Strave OFF	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	129
+Butterfly Supreme Speed	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	175
+Butterfly Taksim	9.0	8.6	6.2	5.8	9.4	9.2	12	260
+Butterfly Taksim X	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	185
+Butterfly Tamaropa	9.0	6.0	(not rated)	(not rated)	(not rated)	(not rated)	1	20
+Butterfly Tamca Gergely 5000	9.0	5.0	10.0	10.0	10.0	9.8	1	0
+Butterfly Tamca ULC	9.0	4.0	7.5	8.4	7.5	10.0	2	126
+Butterfly Tenper Speed	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	70
+Butterfly Tiago Apolonia ZLC	9.1	9.0	5.2	5.3	10.0	9.4	11	260
+Butterfly Timberfeel OFF-	8.0	9.2	5.0	5.7	10.0	9.3	4	66
+Butterfly Timbershot Off+	9.0	8.0	7.0	8.2	10.0	8.0	2	90
+Butterfly Timbertouch ALL	7.2	9.3	5.0	5.2	10.0	9.5	2	53
+Butterfly Timo Boll	8.0	9.5	3.0	5.2	(not rated)	9.3	3	45
+Butterfly Timo Boll ALC	8.9	8.6	5.7	6.1	9.2	9.3	108	150
+Butterfly Timo Boll ALL	7.0	9.3	6.7	7.8	10.0	8.7	3	55
+Butterfly Timo Boll ALL+	7.8	9.1	3.7	4.7	9.0	8.7	25	53
+Butterfly Timo Boll CAF	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	113
+Butterfly Timo Boll Forte	8.5	8.2	5.2	5.8	8.3	8.6	19	70
+Butterfly Timo Boll J	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	73
+Butterfly Timo Boll OFF-	7.9	8.6	5.3	5.1	9.2	8.8	19	65
+Butterfly Timo Boll Spark	7.6	8.1	3.5	4.8	9.2	8.5	13	145
+Butterfly Timo Boll Spirit	8.5	8.5	5.5	6.0	9.3	9.3	105	135
+Butterfly Timo Boll T5000 Tamca	9.6	8.0	7.2	8.1	8.6	9.0	23	162
+Butterfly Timo Boll TJ	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	113
+Butterfly Timo Boll W5	8.5	9.0	5.3	5.5	9.3	9.3	25	85
+Butterfly Timo Boll W7	8.9	8.7	7.1	7.5	9.6	8.6	14	93
+Butterfly Timo Boll XXS	8.0	8.3	6.7	7.4	10.0	8.3	4	25
+Butterfly Timo Boll ZLC	9.3	9.1	5.5	6.2	9.2	9.3	43	227
+Butterfly Timo Boll ZLF	8.8	9.3	5.2	5.5	9.9	9.4	42	250
+Butterfly Viscaria	9.0	8.7	5.1	5.4	9.2	9.4	95	155
+Butterfly Viscaria Light	8.8	8.3	6.2	5.8	8.2	9.5	17	150
+Butterfly VSG-1000	9.3	7.7	4.0	6.7	8.8	8.6	6	196
+Butterfly VSG-2000	9.2	7.8	6.4	6.1	5.0	8.4	7	46
+Butterfly VSG-3000	8.2	8.4	5.0	5.2	5.0	8.5	2	60
+Butterfly VSG-4000	8.0	8.2	6.6	6.7	5.0	8.5	6	44
+Butterfly VSG-TWIST I	(not rated)	(not rated)	10.0	10.0	10.0	(not rated)	1	60
+Butterfly VSG-TWIST II	9.0	9.0	5.0	6.7	5.0	8.0	2	60
+Butterfly VSG-TWIST III	2.9	9.9	3.0	0.0	10.0	8.9	1	64
+Butterfly VSG-TWIST IV	9.0	6.0	6.0	7.5	7.5	9.0	2	80
+Butterfly Wakaba-An	8.0	8.4	4.6	6.2	6.9	8.0	10	40
+Butterfly XStar	7.2	8.8	3.7	5.0	10.0	8.5	6	50
+Butterfly XStar III	6.5	9.1	3.0	3.7	10.0	8.8	1	55
+Butterfly XStar IV	7.3	9.5	7.0	3.0	7.5	9.0	2	66
+Butterfly Yoshida Kaii	8.3	8.5	7.0	7.7	8.3	9.3	4	75
+Butterfly Yoshimura Maharu	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	330
+Butterfly Yuki- AN	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	40
+Butterfly Yuki-II	8.5	8.9	5.0	5.2	10.0	8.9	1	40
+Butterfly Zhang Jike	8.6	9.1	4.8	5.1	9.6	9.4	30	160
+Butterfly Zhang Jike ALC	9.3	9.0	5.8	5.6	9.4	9.5	18	189
+Butterfly Zhang Jike Super ZLC	9.4	9.4	6.2	6.8	9.5	9.5	33	413
+Butterfly Zhang Jike T5000	9.0	8.8	7.0	8.6	10.0	9.3	5	202
+Butterfly Zhang Jike ZLC	9.1	8.8	7.8	6.1	10.0	9.0	5	275
+Butterfly Zhang Yining	7.9	8.3	4.0	6.0	10.0	8.5	2	55
+Champion Bipa	9.0	9.0	7.0	8.2	10.0	8.8	1	30
+Champion Bipa Special	9.0	9.0	7.0	2.2	(not rated)	9.0	2	40
+Champion Hinoki Pro Gold	9.0	8.0	3.0	5.2	5.0	8.0	1	90
+Champion Hinoki Pro Silver	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	70
+Champion MAXX	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	54
+Cornilleau AERO ALL	5.5	9.5	3.0	6.7	10.0	(not rated)	1	0
+Cornilleau AERO ALL+	9.5	(not rated)	(not rated)	3.7	(not rated)	(not rated)	1	0
+Cornilleau AERO OFF	8.6	9.0	5.7	5.2	8.3	8.4	3	50
+Cornilleau Aero OFF+ Soft Carbon	9.2	8.8	4.4	5.0	9.2	9.4	13	59
+Cornilleau AERO OFF-	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	0
+Cornilleau Calderano FOCO OFF+	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	48
+Cornilleau Calderano FOCO OFF-	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	48
+Cornilleau CONQUEST OFF	8.3	9.1	7.0	7.2	10.0	9.7	3	95
+Cornilleau Gatien Absolum OFF+	9.6	7.9	7.0	8.2	10.0	9.6	3	120
+Cornilleau Gatien Crown ALL+	7.5	9.5	4.0	5.2	10.0	9.0	2	45
+Cornilleau Gauzy Quest All+	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	40
+Cornilleau Gauzy Quest OFF	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	45
+Cornilleau GLORY OFF	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	105
+Cornilleau Hinotec ALL+	7.5	7.3	5.0	3.7	(not rated)	7.5	2	0
+Cornilleau Hinotec OFF	8.2	8.5	4.3	6.3	8.3	8.7	4	65
+Cornilleau Hinotec OFF+ Carbon	9.0	7.6	5.0	7.5	6.3	7.8	5	100
+Cornilleau Hinotec OFF-	7.8	8.5	3.8	4.6	10.0	8.3	5	71
+Cornilleau Hugo Calderano OFF+	8.0	8.8	6.0	6.0	10.0	9.8	2	60
+Cornilleau Hugo Calderano OFF-	6.0	6.0	3.0	5.2	10.0	6.0	1	60
+Cornilleau ORIGIN OFF-	8.5	8.9	6.0	6.0	10.0	8.6	2	0
+Cornilleau PURE CARBON OFF+	9.7	7.5	7.0	7.5	7.5	9.2	2	88
+Cornilleau Simon Gauzy Quest Off	8.3	9.4	6.2	8.3	8.3	9.4	7	45
+Cornilleau VISION SOFT CARBON OFF+	8.9	7.8	6.2	6.0	10.0	9.5	7	45
+CTTA Carbon Strike	7.8	8.5	2.5	4.5	5.0	8.0	2	32
+CTTA Pro Tour Carbon Flex	8.2	8.8	3.3	4.7	10.0	9.0	3	32
+CTTA Super League Pro Flex	8.0	8.0	5.0	6.7	5.0	8.0	1	18
+CTTA Super League Silver Power	6.8	8.3	6.0	6.7	5.0	7.1	2	18
+Darker 5P-2A	8.4	8.4	5.0	5.1	10.0	9.3	2	90
+Darker 7P-2A	8.3	9.2	6.5	4.0	10.0	9.6	8	97
+Darker 7P-2A.7t	8.6	9.1	5.8	4.9	7.5	9.2	5	108
+Darker 7P-2A.Carbon	8.8	9.6	4.7	5.4	10.0	8.9	8	128
+Darker 7P-2A.DF	6.7	9.6	3.3	2.7	10.0	8.9	4	90
+Darker 7P.2A Aquablade	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	90
+Darker Alba Sakura	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	150
+Darker Aquablade Alpha	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	150
+Darker Esteem	9.6	9.4	5.7	6.5	8.0	9.6	7	121
+Darker Hinoki Tanpan	8.5	8.8	6.0	3.7	5.0	9.0	3	400
+Darker Legato 2A	8.3	8.5	6.0	6.7	7.5	8.1	2	66
+Darker Liberta Synergy	9.3	9.4	5.0	6.7	10.0	9.3	2	123
+Darker Mai Gouban	9.1	9.4	5.0	3.7	10.0	9.2	1	100
+Darker Serio Sakura	9.5	8.5	5.0	3.7	10.0	9.0	1	150
+Darker Speed 90	9.5	9.4	4.4	2.9	9.4	9.5	22	291
+Darker Spline D1	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	85
+Darker Spline N2	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	100
+Darker Spline N3	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	100
+Dawei Carbon King	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	38
+Dawei DC 20	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	38
+Dawei Energy	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	38
+Dawei Genote Bio X50	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	35
+Dawei Genote Quattro A+	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	28
+Dawei Genote Quattro C (EC)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	38
+Dawei Genote Quattro F (EF)	8.4	9.0	7.0	3.2	10.0	9.0	3	25
+Dawei Genote Quattro O (EO)	8.0	9.0	0.0	6.7	(not rated)	8.2	1	32
+Dawei Genote Quattro S (ES)	8.1	7.5	2.8	4.4	10.0	8.3	4	32
+Dawei Genote Quattro X (EX)	8.8	8.0	5.0	4.5	5.0	8.0	3	31
+Dawei GTO	8.2	8.6	6.0	6.0	10.0	8.6	3	38
+Dawei GTS	7.3	7.2	3.8	4.3	6.7	8.7	4	32
+Dawei Kama	8.4	8.5	5.0	5.1	(not rated)	8.5	3	11
+Dawei Matrix	8.2	8.4	4.2	4.4	4.0	8.3	8	18
+Dawei Maxim	9.1	7.6	5.0	5.2	(not rated)	7.0	1	35
+Dawei MHN 1-Ply Hinoki	8.4	8.2	1.5	(not rated)	(not rated)	8.4	2	40
+Dawei MPC	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	40
+Dawei MPI	7.0	7.5	10.0	8.2	(not rated)	7.5	1	35
+Dawei MPV	8.0	6.0	10.0	8.2	(not rated)	8.0	1	47
+Dawei Navigator WRC	8.8	8.6	5.0	5.2	5.0	9.0	1	33
+Dawei Quattro Allround Hinoki	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	22
+Dawei Quattro Allround Limba	8.3	9.0	4.0	5.2	(not rated)	8.8	2	22
+Dawei R1	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	15
+Dawei R2	7.9	8.7	4.7	5.7	6.7	8.7	6	14
+Dawei R3	8.3	10.0	3.0	6.7	10.0	10.0	2	15
+Dawei R4	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	15
+Dawei R5	8.0	7.0	8.5	6.7	10.0	8.0	3	15
+Dawei S.Matz	8.8	8.6	7.0	6.7	(not rated)	8.8	1	40
+Dawei Saviga+	8.5	9.5	3.0	5.2	(not rated)	(not rated)	1	22
+Dawei Smart	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	38
+Dawei ST-1 Crystal Carbon	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	25
+Dawei Swift	7.8	8.0	7.0	5.2	(not rated)	8.0	1	36
+Dawei VTS	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	50
+Dawei Wavestone	10.0	6.0	10.0	6.7	0.0	8.9	1	32
+Dawei Wavestone WRB	9.1	7.4	6.8	5.1	5.0	9.1	6	43
+Dawei Whizz	7.0	8.0	(not rated)	(not rated)	(not rated)	8.0	1	36
+Der Materialspezialist 2 Faces	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	165
+Der Materialspezialist Defensor	6.0	10.0	3.0	5.2	10.0	10.0	1	90
+Der Materialspezialist Destroyer	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	135
+Der Materialspezialist Dr. Jekyll And Mr. Hyde	6.0	8.0	3.0	6.7	5.0	7.0	1	86
+Der Materialspezialist Excalibur	8.8	9.0	7.0	5.2	10.0	8.5	1	75
+Der Materialspezialist Invictus	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	85
+Der Materialspezialist Protector	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	75
+Der Materialspezialist Spinhunter	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	75
+Der Materialspezialist Tomahawk Next Generation	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	75
+Der Materialspezialist Wizard	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	0
+Donic Alligator Combi	6.4	9.5	5.9	6.0	8.3	9.2	9	48
+Donic Appelgren Allplay	6.9	8.8	4.0	4.4	9.0	8.9	36	28
+Donic Appelgren Allplay Senso V1	6.7	8.9	2.5	4.2	8.9	8.9	11	44
+Donic Appelgren Allplay Senso V2	7.0	9.1	3.6	4.1	10.0	9.2	7	45
+Donic Appelgren Dotec Control	7.4	8.4	5.0	4.3	7.5	8.2	12	43
+Donic Appelgren Exclusive AR	7.9	8.4	3.2	4.4	7.5	8.1	6	31
+Donic Appelgren Falcon	7.5	9.0	3.0	3.7	10.0	10.0	1	40
+Donic Appelgren World Champion 89	8.3	9.7	5.1	5.0	10.0	8.9	8	112
+Donic BalsaCarbo Fibre	8.4	9.0	5.7	5.7	10.0	9.3	3	93
+Donic BalsaCarbo Fleece	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	72
+Donic Baum Carrera Senso	9.4	7.9	6.3	6.7	10.0	9.1	4	43
+Donic Baum Esprit	8.7	9.1	4.9	5.8	10.0	9.3	12	52
+Donic Baum Exclusive Off	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	33
+Donic Baum SawTec OFF	8.3	8.7	4.5	4.8	10.0	9.0	5	39
+Donic Black Devil	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	0
+Donic Black Thunder V1	9.1	6.9	10.0	8.2	10.0	6.9	2	61
+Donic Bloodwood 5	8.3	8.5	5.5	6.7	10.0	8.8	5	77
+Donic Bloodwood 7 Senso	8.8	8.0	9.3	8.7	7.5	8.9	6	99
+Donic Blue Enforce	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	44
+Donic Blue Feeling	7.6	9.6	5.0	6.7	10.0	9.6	1	53
+Donic Burn ALL+	8.0	8.9	6.3	6.9	8.5	8.9	17	50
+Donic Burn Aratox	8.2	8.5	4.6	5.5	10.0	9.0	6	0
+Donic Burn Aratox RS	8.7	8.0	6.3	6.4	9.4	8.9	10	85
+Donic Burn Carbotox	9.2	9.1	5.4	5.4	7.5	9.3	6	70
+Donic Burn OFF	9.2	8.4	7.0	6.7	10.0	8.9	4	36
+Donic Burn OFF-	8.2	8.4	5.3	6.6	9.7	8.8	20	50
+Donic Carbo System OFF-	8.4	8.8	6.3	4.8	8.8	8.4	4	60
+Donic Carbo System OFFENSIVE	9.2	7.5	10.0	8.2	(not rated)	8.4	1	60
+Donic Carbo System OFFENSIVE PLUS	9.8	5.5	7.0	6.7	10.0	8.5	3	57
+Donic Cayman	8.0	8.4	6.6	6.1	9.4	8.5	12	53
+Donic Crest AR+	8.7	9.2	6.6	5.2	10.0	9.5	6	177
+Donic Crest OFF	9.1	9.1	6.0	6.7	10.0	9.5	2	177
+Donic Crisan Titanium	9.3	7.3	7.0	5.2	10.0	9.0	2	70
+Donic Defplay Classic Senso	6.1	9.2	3.5	3.9	9.5	9.3	13	50
+Donic Defplay Classic V3	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	29
+Donic Defplay Senso	5.5	9.5	3.4	4.3	10.0	9.3	20	50
+Donic Defplay Senso V3	6.0	9.5	3.0	4.5	10.0	9.0	2	32
+Donic Dima SawTec AR	6.7	8.0	2.7	5.2	10.0	6.5	3	39
+Donic Dima Speedster	9.0	7.0	7.0	6.7	10.0	8.0	1	40
+Donic Dyjas Ultra Power	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	49
+Donic Epox Carbotec	9.2	9.1	6.8	6.5	9.4	9.4	9	67
+Donic Epox Control	7.7	9.2	6.3	5.7	9.0	8.7	17	57
+Donic Epox Offensiv	8.6	8.1	5.5	5.8	8.8	8.7	19	57
+Donic Epox PowerAllround	8.3	8.8	6.7	6.6	10.0	8.7	15	42
+Donic Epox PowerCarbon	9.1	8.1	5.8	7.0	10.0	9.4	8	62
+Donic Epox TopSpeed	9.4	7.2	7.1	7.8	9.7	8.7	21	56
+Donic Integra	7.0	8.0	5.0	5.2	5.0	7.0	1	30
+Donic J.O. Waldner Offensiv	7.5	7.8	3.0	3.7	10.0	9.3	2	0
+Donic J.O. Waldner [Limited JO Shape]	8.9	9.0	4.0	5.2	10.0	10.0	3	46
+Donic Katana Senso V3	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	40
+Donic Katana Speed	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	51
+Donic Kevplay	8.4	8.2	6.3	7.7	8.3	8.5	3	51
+Donic Li Ping Kitex	9.2	8.8	6.2	6.9	10.0	9.2	11	79
+Donic Master Carbon	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	67
+Donic Master Ultra Power	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	40
+Donic New Enforce	7.6	8.3	3.0	3.7	8.3	8.4	3	70
+Donic Opticon	7.7	8.6	6.2	7.1	10.0	8.4	5	43
+Donic Opticon RS	9.3	8.7	7.8	7.9	10.0	9.4	5	40
+Donic Ovtcharov Carbospeed	9.5	8.2	7.5	7.8	9.4	9.3	31	63
+Donic Ovtcharov Dotec ALL	7.0	9.0	7.0	5.2	10.0	8.0	1	69
+Donic Ovtcharov Dotec ALL+	8.1	9.0	8.5	5.2	10.0	8.5	2	72
+Donic Ovtcharov Dotec OFF	9.7	10.0	7.0	6.7	10.0	10.0	2	72
+Donic Ovtcharov Exclusive Carbon	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	49
+Donic Ovtcharov Feat	8.6	9.5	5.5	4.8	10.0	9.4	4	110
+Donic Ovtcharov No. 1	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	123
+Donic Ovtcharov No. 1 Senso	9.0	9.0	5.0	5.2	(not rated)	9.8	1	215
+Donic Ovtcharov Original Senso Carbon	9.1	8.7	5.3	6.2	10.0	9.5	8	61
+Donic Ovtcharov Senso Carbon V1	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	79
+Donic Ovtcharov Senso V1	9.0	8.0	7.0	7.5	8.8	9.0	12	68
+Donic Ovtcharov Senso V2	8.3	9.0	5.0	6.0	7.5	8.2	2	58
+Donic Ovtcharov Soft Carbon V1	8.1	8.3	5.7	6.2	7.5	8.4	6	80
+Donic Ovtcharov True Carbon	9.1	8.5	6.3	6.3	10.0	8.6	12	99
+Donic Persson Carbotec	9.1	6.4	7.6	7.2	8.8	8.6	10	53
+Donic Persson Dotec Carbokev	9.5	8.4	7.0	7.6	10.0	9.4	7	95
+Donic Persson Dotec OFF	8.4	8.7	5.2	5.9	8.1	8.7	11	79
+Donic Persson Exclusive OFF	7.9	8.4	5.5	6.1	8.6	8.5	12	32
+Donic Persson Impuls Offensive	8.0	8.5	7.0	6.7	10.0	8.0	3	40
+Donic Persson Power Allround	7.4	8.1	5.3	5.8	10.0	8.6	8	43
+Donic Persson Power AR Senso V1	8.1	8.8	3.0	6.2	10.0	9.2	3	60
+Donic Persson Power AR Senso V2	7.5	8.5	4.5	6.4	8.8	8.0	4	41
+Donic Persson Power Carbon	9.4	8.7	7.5	8.1	9.4	9.2	11	55
+Donic Persson Power Carbon Senso V1	9.2	7.6	6.1	6.4	8.5	9.0	11	55
+Donic Persson Powerfibre Senso	7.8	7.0	5.0	5.5	5.0	7.3	5	60
+Donic Persson Powerplay	8.6	8.4	5.6	6.9	10.0	9.0	23	43
+Donic Persson Powerplay Senso V1	8.3	8.1	6.3	6.7	6.8	8.5	15	30
+Donic Persson Powerplay Senso V2	7.6	7.5	5.8	5.5	8.8	8.3	6	50
+Donic Persson Powerspeed	9.0	7.0	6.3	7.7	10.0	8.2	4	39
+Donic Persson Seven	8.5	8.7	5.8	6.5	9.0	8.8	6	49
+Donic Persson World Champion 89	9.4	8.2	7.0	8.0	10.0	9.1	5	112
+Donic Persson Youngstar	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	25
+Donic Peter Franz GT-R	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	0
+Donic Shiono DEF	7.5	9.0	5.0	3.7	10.0	9.0	2	85
+Donic Smirnov Ultra Carbon	8.7	7.0	6.3	8.2	10.0	8.5	3	50
+Donic Smyrev	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	45
+Donic SSTRAIT X5	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	29
+Donic Testra Allround Classic	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	33
+Donic Testra AR	7.6	9.2	4.6	3.6	8.8	7.8	5	29
+Donic Testra AR Plus	7.8	8.9	4.3	4.2	8.3	8.1	3	29
+Donic Testra Carbon	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	45
+Donic Waldner Allplay	7.2	9.4	4.1	5.7	10.0	8.5	14	30
+Donic Waldner Black Devil Carbon Balsa	9.4	8.1	7.4	7.4	9.1	9.1	43	57
+Donic Waldner Black Power	7.5	9.0	5.0	6.0	10.0	9.0	2	39
+Donic Waldner Diablo Senso	8.0	8.9	4.7	4.8	9.0	9.1	11	58
+Donic Waldner Dicon	7.8	9.0	4.2	4.8	10.0	9.0	10	48
+Donic Waldner Dotec Allround	8.1	8.7	7.0	3.6	10.0	8.6	6	73
+Donic Waldner Dotec Carbon	9.1	9.3	6.5	6.3	9.3	9.4	16	90
+Donic Waldner Dotec Hinoki	9.2	8.9	6.1	6.9	10.0	9.5	7	122
+Donic Waldner Exclusive AR+	6.4	8.6	4.3	5.2	6.3	7.8	5	39
+Donic Waldner Hybrid Nano	7.0	7.0	5.0	5.0	5.0	8.5	2	0
+Donic Waldner Impuls IR	8.0	8.0	3.0	3.7	10.0	10.0	1	45
+Donic Waldner Lagonda	8.5	8.0	7.0	8.3	10.0	9.5	3	40
+Donic Waldner Legend Carbon	9.1	9.0	6.5	6.8	9.5	9.4	14	58
+Donic Waldner OFF World Champion 89	9.0	8.8	6.7	6.0	9.0	9.5	13	130
+Donic Waldner Offensive 2016	8.8	8.5	5.0	5.2	7.5	9.4	3	43
+Donic Waldner Senso Carbon	8.3	8.8	5.4	5.6	8.8	9.2	71	50
+Donic Waldner Senso Carbon JO Shape	8.4	9.3	5.7	5.2	10.0	9.4	3	66
+Donic Waldner Senso Carbon JO Shape Limited Edition	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	75
+Donic Waldner Senso V1	7.6	8.9	4.0	4.2	7.9	8.8	9	40
+Donic Waldner Senso V2	7.3	8.5	4.0	4.1	8.3	8.2	5	40
+Donic Waldner Ultra Senso Carbon	8.4	8.5	5.3	5.7	9.0	8.8	38	61
+Donic Waldner Ultra Senso Carbon JO Shape	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	55
+Donic Waldner Youngstar	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	29
+Donic Wang Xi Dotec Control Plus	6.6	9.5	3.6	3.7	9.4	8.8	8	70
+Donic Wosik Senso Carbon	9.4	7.4	7.0	7.4	8.3	8.7	9	46
+Donic Zhou Yu One	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	60
+Donic Zhou Yu Two	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	75
+Donier Allround+	8.0	7.0	7.0	6.7	10.0	8.0	1	29
+Donier BALSA CARBON OFF +	9.0	9.0	7.0	6.7	10.0	9.3	1	30
+Donier BALSA PLUS	10.0	9.0	7.0	6.7	10.0	9.0	1	30
+Donier Defensive	5.0	10.0	0.0	3.7	5.0	8.0	1	25
+Donier Offensive+	8.8	8.4	3.0	(not rated)	(not rated)	(not rated)	1	45
+Donier RR+	8.0	9.8	3.0	3.7	10.0	9.9	1	65
+Double Fish Carbon KING 7 - PLY (Qi2)	9.8	9.5	7.0	8.2	10.0	(not rated)	1	160
+Double Fish CQ3	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	89
+Double Fish HB Carbon	9.0	8.0	3.0	5.2	5.0	9.0	1	45
+Double Fish MK-II 7 - PLY	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	67
+Double Fish Qi	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	45
+Double Fish Volant Pro	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	34
+DHS 506 Ma Long	9.2	9.2	7.0	7.0	8.8	9.4	13	113
+DHS 801	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	0
+DHS Classic (1970s)	9.0	9.0	7.0	8.2	(not rated)	9.0	1	50
+DHS Classic 032	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	150
+DHS Classic 08	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	160
+DHS Di-GT 9 Dipper Blackwood	9.2	9.0	7.0	6.7	10.0	9.2	1	75
+DHS DI-HT	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	54
+DHS Di-RT Dipper Rosewood	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	70
+DHS Dipper CP Monocarbon	7.7	8.5	6.0	6.7	8.3	8.7	5	42
+DHS Dipper CP100	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	45
+DHS Dipper Di-02	7.7	7.8	3.7	5.5	8.3	7.9	6	115
+DHS Dipper Di-03	7.5	8.8	7.0	8.2	10.0	8.0	2	32
+DHS Dipper Di-11	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	39
+DHS Dipper Di-13	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	39
+DHS Dipper Di-15	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	1	39
+DHS Dipper Di-16	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	1	39
+DHS Dipper Di-18	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	39
+DHS Dipper DM.SP10 Carbon	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	46
+DHS Dipper DM.SP2000	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	45
+DHS Dipper M C10	10.0	6.0	10.0	10.0	10.0	8.0	1	56
+DHS Dipper M CP200	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	78
+DHS Dipper M DM200	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	71
+DHS Dipper M G100	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	80
+DHS Dipper M G200	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	37
+DHS Dipper M SP02	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	73
+DHS Dipper M SP300	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	79
+DHS Dipper M SP500	9.5	7.5	5.0	5.2	(not rated)	(not rated)	1	90
+DHS Fang Bo All Wood	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	65
+DHS Fang Bo B2	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	70
+DHS Fang Bo Carbon	9.5	9.2	5.7	6.3	8.9	9.4	15	72
+DHS Hurrcane King II	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	165
+DHS Hurricane 301	9.2	9.5	3.7	5.1	8.9	9.6	42	60
+DHS Hurricane Bo 2 (Hurricane B2)	9.5	9.2	5.2	5.9	9.5	9.4	13	70
+DHS Hurricane Dragon	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	0
+DHS Hurricane H-GY	9.1	9.6	6.0	6.7	10.0	9.6	2	99
+DHS Hurricane H-LG	8.0	6.5	6.5	6.9	10.0	7.3	2	99
+DHS Hurricane H-LN	8.0	9.0	(not rated)	(not rated)	(not rated)	9.0	1	98
+DHS Hurricane H-QZ	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	70
+DHS Hurricane H-TP	9.1	8.7	2.3	4.5	10.0	9.4	5	41
+DHS Hurricane H-WH	8.8	8.4	5.5	6.8	9.0	8.9	7	70
+DHS Hurricane H-WL	9.5	8.4	7.1	7.2	8.5	9.3	23	50
+DHS Hurricane H-WN	8.5	7.5	7.0	9.1	5.0	9.0	2	79
+DHS Hurricane Hao	8.3	8.9	4.1	5.9	6.1	8.9	13	89
+DHS Hurricane Hao 656	8.7	9.3	6.2	7.4	7.7	9.3	16	139
+DHS Hurricane Hao II	9.0	9.5	5.0	5.2	10.0	9.5	1	150
+DHS Hurricane Hao III	9.0	9.4	7.4	6.6	9.2	9.5	15	168
+DHS Hurricane King	8.5	8.9	5.9	6.6	6.3	9.1	24	141
+DHS Hurricane King 655	8.4	8.6	5.3	6.7	7.5	9.1	10	134
+DHS Hurricane King III	9.3	9.1	6.8	6.7	8.1	9.5	17	199
+DHS Hurricane Long	9.9	9.5	5.7	6.7	10.0	9.9	4	190
+DHS Hurricane Long 2	9.2	9.5	7.2	7.2	10.0	9.1	10	200
+DHS Hurricane Long 3	9.4	9.4	5.3	6.1	9.6	9.6	32	200
+DHS Hurricane Long 5	9.7	9.3	5.3	6.4	9.4	9.6	50	190
+DHS Hurricane Ning	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	169
+DHS Hurricane No.2	7.3	8.3	7.0	6.0	5.0	8.7	2	60
+DHS Hurricane Xia	9.6	9.9	5.0	5.2	10.0	9.8	1	172
+DHS Long 5	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	0
+DHS Ma Long Balance	7.0	8.0	7.0	8.2	10.0	7.0	1	39
+DHS Ma Long Energy	9.3	9.4	5.0	6.7	10.0	9.6	1	55
+DHS Ma Long Light	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	39
+DHS Magic A02	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	38
+DHS Magic A05	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	33
+DHS Magic C02	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	28
+DHS Magic C03	7.5	8.0	3.0	6.7	(not rated)	8.0	1	28
+DHS Magic D01 DEF	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	45
+DHS Magic D02 DEF	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	56
+DHS Magic D03	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	62
+DHS Magician M-02	8.2	9.2	2.7	5.2	10.0	8.7	3	30
+DHS Magician M-03	6.6	9.1	3.5	6.3	6.7	8.7	4	25
+DHS Magician M-11	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	37
+DHS Magician M-13	7.0	7.0	10.0	10.0	5.0	5.0	1	37
+DHS Magician M-C02	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	28
+DHS Magician M-C03	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	28
+DHS Neo TG825	9.4	9.0	7.0	6.7	10.0	9.5	1	90
+DHS O 123	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	35
+DHS O102A	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	39
+DHS O104A OFF	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	25
+DHS PF4 016	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	30
+DHS PF4 032	8.5	8.8	7.1	7.3	10.0	9.1	8	30
+DHS PF4 08	7.5	8.0	6.3	6.0	8.3	8.4	4	30
+DHS PG7	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	30
+DHS POWER G 15 E	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	40
+DHS Power G 7E	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	50
+DHS Power-G 5 PG5	8.2	9.2	6.3	6.7	6.7	9.4	3	35
+DHS Power-G PG12	9.0	8.1	5.4	7.3	8.3	8.6	5	45
+DHS Power-G PG13	8.9	8.4	6.8	6.7	10.0	9.0	5	55
+DHS Power-G PG15	9.0	9.1	4.0	5.2	7.5	9.1	2	40
+DHS Power-G PG2	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	28
+DHS Power-G PG2-L	7.7	8.4	5.7	5.2	7.5	8.4	3	27
+DHS Power-G PG2-S	6.0	9.0	3.0	3.7	(not rated)	(not rated)	1	27
+DHS Power-G PG3	7.8	8.1	2.3	7.0	8.8	8.1	6	33
+DHS Power-G PG7	8.9	8.9	5.8	6.5	8.6	9.2	128	28
+DHS Power-G PG8	7.8	8.2	6.5	7.5	6.7	8.3	4	30
+DHS Power-G PG9	9.2	8.9	6.5	6.7	9.4	9.0	10	30
+DHS Skyline TG7-AL	9.5	8.9	5.6	5.8	10.0	9.3	9	80
+DHS Skyline TG7-AS	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	80
+DHS Skyline TG7-BL	7.8	7.5	6.0	5.2	10.0	(not rated)	2	80
+DHS Skyline TG7-BS	9.0	9.5	10.0	8.2	10.0	10.0	1	80
+DHS TG 506+	9.3	9.4	7.0	6.7	10.0	9.5	2	119
+DHS TG-7 CP	9.4	8.0	8.5	8.2	7.5	8.9	2	96
+DHS TG-7 CP2	9.0	9.3	5.8	7.0	10.0	9.6	5	120
+DHS TG-7 P	9.3	9.6	5.0	5.7	10.0	9.6	3	67
+DHS TG-7 P2	9.0	9.0	5.0	6.7	(not rated)	(not rated)	1	75
+DHS TG-7 SP	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	139
+DHS TG825-L	9.8	8.2	4.7	6.7	10.0	9.5	3	130
+DHS V-Series V302	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	184
+DHS W968-5	10.0	10.0	10.0	10.0	10.0	10.0	1	500
+DHS Wang Hao Control	7.5	9.5	5.0	5.2	5.0	8.0	1	33
+DHS Wang Hao Special	7.0	7.0	7.0	6.7	10.0	7.0	1	39
+DHS Wang Hao Sting	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	45
+DHS Wang Liqin Carbon	9.3	8.2	5.0	6.7	5.0	8.4	1	67
+DHS Wang Liqin Legend	8.7	9.2	3.0	6.7	10.0	8.8	1	45
+DHS Wang Liqin Magic	8.5	9.0	5.0	6.7	10.0	9.5	1	33
+DHS Wang Liqin Penhold	9.5	8.3	5.0	5.2	10.0	9.4	1	50
+DHS Wang Liqin Ultima	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	45
+DHS Wind CW-C	9.4	7.3	9.0	8.8	7.2	8.6	22	40
+DHS Wind CW-E	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	26
+DHS Wind SR-A	7.5	9.1	4.5	4.8	10.0	8.8	4	40
+DHS Wind SR-B	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	40
+DHS Wind W1030	8.4	8.5	5.0	5.2	0.0	8.2	1	23
+Dr. Neubauer Barricade DEF	5.5	9.3	2.7	2.2	10.0	8.6	12	50
+Dr. Neubauer Bulldozer	5.0	1.0	10.0	10.0	10.0	10.0	2	76
+Dr. Neubauer Combination Effect	8.0	10.0	6.0	6.7	7.5	9.0	2	196
+Dr. Neubauer Firewall Plus	8.4	9.0	5.9	3.4	7.9	8.9	13	65
+Dr. Neubauer Hercules	7.0	9.0	7.0	8.2	(not rated)	9.0	1	153
+Dr. Neubauer High Technology Plus	9.2	8.8	5.0	4.5	10.0	8.0	2	88
+Dr. Neubauer Jackpot	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	75
+Dr. Neubauer Kung Fu	7.5	8.8	7.0	6.7	10.0	9.0	2	68
+Dr. Neubauer Matador	8.0	10.0	7.0	8.2	10.0	10.0	1	80
+Dr. Neubauer Matador Texa	8.8	9.4	7.0	6.7	10.0	9.0	1	65
+Dr. Neubauer Matador Texa Balsa	8.5	9.4	7.0	8.2	10.0	8.8	1	70
+Dr. Neubauer Phenomenon	7.0	10.0	7.0	4.5	10.0	8.0	2	68
+Dr. Neubauer Special	8.1	9.7	5.0	3.7	10.0	9.7	1	189
+Dr. Neubauer Titan	7.0	10.0	7.0	6.7	(not rated)	9.0	1	299
+Dr. Neubauer World Champion Carbon	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	70
+Dr. Neubauer World Champion OFF-	8.0	9.0	5.0	5.2	10.0	8.0	1	64
+Eastfield Allwood	6.0	10.0	5.0	5.2	(not rated)	8.0	1	30
+Friendship/729 6030	8.8	9.1	6.0	7.2	10.0	9.0	4	18
+Friendship/729 8030	9.7	6.5	10.0	9.1	10.0	8.5	5	34
+Friendship/729 8040	7.3	8.3	7.0	4.5	8.3	8.2	3	32
+Friendship/729 8041	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	32
+Friendship/729 9010 Carbon	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	32
+Friendship/729 A-2	8.1	9.4	5.4	4.6	10.0	9.2	5	30
+Friendship/729 A-3	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	30
+Friendship/729 Black Whirlwind	7.3	9.0	5.0	6.7	(not rated)	8.8	2	20
+Friendship/729 Black Whirlwind Transformer	8.7	9.3	5.0	5.2	7.5	9.0	4	18
+Friendship/729 Bomb	8.5	8.5	5.1	6.0	8.8	8.6	42	18
+Friendship/729 C-1	7.6	9.4	5.0	4.5	7.5	9.3	2	22
+Friendship/729 C-2	7.7	8.5	4.0	4.8	7.5	8.5	4	17
+Friendship/729 C-3	8.0	8.8	4.8	5.8	8.8	8.6	10	30
+Friendship/729 C-5	7.5	10.0	5.0	5.2	10.0	10.0	1	15
+Friendship/729 Dragon	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	10
+Friendship/729 Dynasty Hinoki	8.5	8.6	4.6	5.8	10.0	8.8	7	32
+Friendship/729 Dynasty Hinoki Carbon	9.1	8.4	5.8	6.3	8.3	8.6	9	31
+Friendship/729 Dynasty Super Carbon	9.7	7.1	7.9	8.1	10.0	8.1	8	32
+Friendship/729 Dynasty Two Speed Carbon	8.7	7.5	6.0	6.7	7.5	8.2	2	32
+Friendship/729 F-1	8.6	8.1	5.0	6.0	0.0	8.5	6	15
+Friendship/729 F-2	7.0	9.0	5.0	5.2	10.0	8.0	1	15
+Friendship/729 F-3 Hao Shuai	9.0	5.0	(not rated)	(not rated)	(not rated)	(not rated)	2	27
+Friendship/729 Fighter Arylate Carbon	8.2	8.7	7.0	7.2	10.0	9.3	5	17
+Friendship/729 Fighter Carbon	8.0	7.0	7.0	6.7	5.0	8.0	1	22
+Friendship/729 Fighter Glassfiber	9.5	8.8	8.5	6.7	10.0	8.9	3	19
+Friendship/729 Hao Shuai Champion Carbon	8.4	7.7	6.9	7.1	8.8	8.0	9	50
+Friendship/729 L 1	8.0	10.0	7.0	6.7	10.0	9.0	1	35
+Friendship/729 L-2	7.3	9.6	4.0	5.2	10.0	9.5	2	35
+Friendship/729 L-3 (Hao Shuai)	8.0	9.0	6.0	6.0	10.0	9.0	2	40
+Friendship/729 L-5 Hao Shuai	8.5	9.6	6.0	5.2	5.0	9.5	2	40
+Friendship/729 Magic Green	6.0	10.0	3.0	5.2	5.0	7.5	1	7
+Friendship/729 Red Spirit	8.0	8.5	2.0	3.5	5.0	8.3	4	35
+Friendship/729 RITC729 W-1	5.5	8.0	4.0	3.7	10.0	7.0	2	26
+Friendship/729 Sensor Grip	8.5	8.0	7.0	8.2	10.0	8.5	2	23
+Friendship/729 V-3	10.0	10.0	7.0	10.0	10.0	10.0	1	24
+Friendship/729 V-5	7.8	8.8	5.0	4.5	(not rated)	8.0	2	17
+Friendship/729 V-6	8.3	8.9	5.0	4.9	8.2	9.5	17	27
+Friendship/729 WA-2	6.8	8.9	4.3	5.7	(not rated)	9.0	3	30
+Friendship/729 Z-1 (Z1)	8.3	8.6	6.8	7.1	6.3	8.5	5	35
+Friendship/729 Z-2	7.5	9.3	4.0	5.2	10.0	9.2	2	35
+Galaxy 2020	8.0	6.0	5.0	8.2	5.0	7.0	1	35
+Galaxy 2024	9.0	7.5	10.0	10.0	10.0	8.3	1	27
+Galaxy 350 Year	7.0	7.7	5.0	5.2	5.0	7.0	1	13
+Galaxy 3A	7.0	10.0	7.0	5.2	10.0	9.0	1	15
+Galaxy 896	7.6	8.5	2.7	4.9	6.9	8.2	13	12
+Galaxy 901	8.3	8.0	5.0	7.2	10.0	8.0	3	28
+Galaxy 902	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	0
+Galaxy 960	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	18
+Galaxy 961	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	0
+Galaxy 966	7.4	8.5	5.0	5.2	(not rated)	9.0	1	15
+Galaxy 970	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	20
+Galaxy 980	6.9	8.6	7.8	7.0	10.0	8.5	5	28
+Galaxy 981	9.8	8.0	(not rated)	(not rated)	(not rated)	9.9	2	21
+Galaxy 982	10.0	10.0	7.0	8.2	10.0	(not rated)	1	58
+Galaxy 983	9.5	6.3	8.5	9.1	6.3	7.3	6	21
+Galaxy 984	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	20
+Galaxy 985	9.1	8.8	5.0	4.5	10.0	9.6	4	20
+Galaxy 986	9.0	9.0	7.0	8.2	5.0	9.0	1	20
+Galaxy 987	10.0	7.3	(not rated)	(not rated)	(not rated)	9.0	1	21
+Galaxy 988	9.3	9.0	6.3	7.0	10.0	9.2	9	30
+Galaxy 989	9.4	7.9	10.0	8.2	8.8	8.9	4	20
+Galaxy 991	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	20
+Galaxy 992 Three Carbon	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	60
+Galaxy Bogen	7.5	9.0	5.0	6.7	(not rated)	(not rated)	1	40
+Galaxy Carbokev K-1	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	63
+Galaxy Carbokev K-2	8.5	8.0	5.0	5.2	10.0	9.0	1	40
+Galaxy Carbokev K-3	7.0	8.0	3.0	6.7	5.0	8.0	1	40
+Galaxy Carbokev K-4	8.4	8.8	5.2	5.2	7.5	9.2	10	49
+Galaxy Carbokev K-5	9.1	7.1	4.4	4.2	5.0	8.0	5	50
+Galaxy Carbokev K-6	9.1	8.1	8.2	8.0	6.7	9.1	6	50
+Galaxy CN.1 Children Carbon	6.3	9.3	4.0	5.2	7.5	8.3	3	15
+Galaxy CN.2	7.2	8.0	5.0	5.2	5.0	8.2	1	15
+Galaxy DE-1	6.0	9.5	5.0	6.2	7.5	10.0	3	40
+Galaxy DL-1 Woven Carbon	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	80
+Galaxy DL-3 Uniaxial Carbon	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	54
+Galaxy Earth E-1	8.5	8.6	4.3	6.7	7.5	8.7	3	30
+Galaxy Earth E-1 VB	8.5	9.5	6.0	5.2	10.0	8.8	2	39
+Galaxy Earth E-2	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	70
+Galaxy Earth E-3	8.2	9.0	3.5	5.0	9.2	9.0	10	28
+Galaxy Earth E-3 VB	7.8	8.5	5.0	5.2	(not rated)	(not rated)	1	36
+Galaxy Earth E-4	8.3	8.5	3.0	5.2	5.0	8.5	1	50
+Galaxy Earth E-5	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	65
+Galaxy EC-11	8.0	6.0	6.0	7.5	5.0	8.0	2	20
+Galaxy EC-12	10.0	6.5	7.0	6.7	5.0	10.0	2	25
+Galaxy EC-13	9.5	7.1	5.0	7.5	5.0	8.8	2	30
+Galaxy EC-14	9.3	8.9	6.9	6.3	8.0	9.3	13	30
+Galaxy Galaxy T2s	8.7	8.0	7.0	7.7	10.0	8.7	3	40
+Galaxy Hinoki 200 Year	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	129
+Galaxy Hinoki 260 Year	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	225
+Galaxy Hinoki 3A	8.0	8.0	7.0	6.7	10.0	8.0	1	109
+Galaxy Hinoki 5A	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	191
+Galaxy Huichuan	7.0	8.5	0.0	3.7	(not rated)	7.5	1	13
+Galaxy Huichuan 606	9.0	7.0	7.0	8.2	5.0	9.0	1	10
+Galaxy J-1	8.1	9.1	5.8	3.2	10.0	9.0	17	37
+Galaxy Lanze	6.5	9.5	3.0	5.2	(not rated)	(not rated)	1	40
+Galaxy LQ-1	7.0	8.7	6.3	7.8	10.0	9.6	3	50
+Galaxy LQ-2	6.7	8.3	4.7	7.8	8.3	8.7	3	46
+Galaxy M-1	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	23
+Galaxy M-2	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	24
+Galaxy M-3	10.0	10.0	10.0	10.0	10.0	10.0	1	20
+Galaxy M-4	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	19
+Galaxy M-5	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	25
+Galaxy M-6	7.5	7.9	4.6	6.1	6.7	8.5	7	26
+Galaxy MC-1	8.5	7.5	7.0	8.2	(not rated)	8.0	2	30
+Galaxy MC-2	8.2	9.3	3.8	4.1	9.4	9.4	25	45
+Galaxy MC-2 PRO	9.0	9.0	7.0	6.7	10.0	8.8	1	38
+Galaxy MC-3	8.3	7.9	5.0	6.7	10.0	8.9	1	20
+Galaxy MC-4	9.0	10.0	5.0	6.7	(not rated)	10.0	1	25
+Galaxy Mercury Y-11	8.6	8.5	7.0	6.0	7.5	8.9	2	24
+Galaxy Mercury Y-12	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	27
+Galaxy Mercury Y-13	8.9	8.4	5.8	7.0	8.8	9.0	5	45
+Galaxy Mercury Y-14	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	1	22
+Galaxy Mercury Y-15	8.9	9.2	4.8	5.4	9.5	9.2	12	22
+Galaxy Mercury Y-16	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	27
+Galaxy N-1	8.5	8.5	5.0	5.2	10.0	9.5	1	20
+Galaxy N-10	7.4	8.4	5.0	6.0	8.6	8.6	7	13
+Galaxy N-11	8.0	8.5	4.4	5.2	10.0	8.5	11	13
+Galaxy N-2	9.0	9.0	7.0	8.2	10.0	9.0	1	19
+Galaxy N-3	8.7	8.4	7.0	8.2	10.0	8.8	1	17
+Galaxy N-4	8.0	9.1	5.0	5.2	(not rated)	8.5	2	15
+Galaxy N-5	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	15
+Galaxy N-6	8.0	7.0	5.0	6.7	5.0	(not rated)	1	14
+Galaxy N-7	8.0	8.0	5.0	6.7	10.0	8.0	1	13
+Galaxy N-8	8.0	8.1	5.5	6.3	10.0	8.7	4	13
+Galaxy N-8 S	8.1	8.4	5.0	5.2	7.5	8.4	2	13
+Galaxy N-9	9.1	9.1	6.5	7.2	8.8	9.2	60	15
+Galaxy N10 S	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	15
+Galaxy N11 S	8.0	9.0	5.0	6.0	8.8	8.8	4	15
+Galaxy N9s	9.0	9.4	6.4	6.8	9.5	9.3	14	15
+Galaxy Nano 50	8.0	9.0	5.0	6.7	10.0	8.5	1	170
+Galaxy Nano 51	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	170
+Galaxy Nano 52	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	170
+Galaxy Nano 70	8.5	8.7	3.0	5.2	10.0	8.5	1	170
+Galaxy NE-50	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	149
+Galaxy NE-70	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	149
+Galaxy NR-50	9.0	8.0	7.0	(not rated)	(not rated)	(not rated)	1	149
+Galaxy NR-70	9.0	9.8	10.0	6.7	10.0	9.6	1	175
+Galaxy Pro 5W	10.0	10.0	5.0	5.2	10.0	10.0	1	54
+Galaxy PRO 7W	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	30
+Galaxy Pro Feeling	9.2	9.5	3.7	6.2	(not rated)	9.7	4	99
+Galaxy Purple Dragon PD-437	8.7	9.0	5.0	5.2	10.0	9.5	1	44
+Galaxy Purple Dragon PD-537	9.3	8.9	6.3	6.7	10.0	9.5	3	42
+Galaxy Qiu Yike Ebony	8.7	9.3	5.0	8.2	(not rated)	9.0	1	50
+Galaxy Qiu Yike Palisander	8.8	8.8	7.0	8.2	10.0	10.0	1	79
+Galaxy Qiu Yike Pro Limited Edition	9.0	9.3	5.0	6.7	10.0	9.0	1	135
+Galaxy Qiu Yike Rosewood	8.7	8.7	5.0	6.0	7.5	9.3	2	79
+Galaxy Qiu Yike Wenge	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	94
+Galaxy Speer	8.0	8.0	7.0	6.7	(not rated)	(not rated)	1	50
+Galaxy T-1	9.2	8.3	8.4	8.3	8.3	9.0	10	35
+Galaxy T-10	9.1	7.7	8.2	7.2	8.0	9.3	9	40
+Galaxy T-10+	9.6	8.7	7.4	7.3	9.3	9.2	8	30
+Galaxy T-11	9.5	8.8	7.0	7.1	8.3	9.4	53	25
+Galaxy T-11+	9.3	9.0	7.3	7.2	9.0	9.2	66	35
+Galaxy T-2	9.3	8.2	8.4	8.3	7.9	8.7	17	30
+Galaxy T-3	9.5	8.8	6.0	6.7	10.0	9.5	2	40
+Galaxy T-4	9.6	8.3	8.1	8.2	8.5	9.4	20	35
+Galaxy T-4s	9.6	8.7	7.2	8.1	7.2	9.4	11	58
+Galaxy T-5	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	36
+Galaxy T-6	8.4	8.9	7.2	7.4	8.6	9.3	9	36
+Galaxy T-7	8.3	8.8	6.3	6.1	9.6	9.1	15	40
+Galaxy T-8	9.3	8.6	6.5	6.8	8.8	9.3	32	28
+Galaxy T-8S	9.3	8.9	5.9	5.2	10.0	9.3	9	50
+Galaxy T-9	9.3	8.0	7.6	7.9	8.8	9.0	5	80
+Galaxy T-9 Pro	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	90
+Galaxy T6s	8.5	7.2	7.0	6.7	(not rated)	7.9	1	31
+Galaxy T7s	8.5	8.5	7.0	5.2	10.0	9.0	1	40
+Galaxy TC.1 Thin Carbon 1	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	45
+Galaxy TC.2 Thin Carbon 2	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	35
+Galaxy TC.4 Thin Carbon 4	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	45
+Galaxy U2004 (U-4)	7.5	8.0	7.0	6.7	7.5	8.0	7	18
+Galaxy U2005 (U-5)	8.4	8.3	3.0	5.2	(not rated)	8.0	2	0
+Galaxy U2006 (U-6)	9.0	8.0	10.0	8.2	(not rated)	(not rated)	2	0
+Galaxy U2007 (U-7)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	1	0
+Galaxy Uranus U-1	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	35
+Galaxy Uranus U-1 VB	8.7	9.5	5.0	4.5	7.5	9.2	2	41
+Galaxy Uranus U-2	7.5	8.0	5.0	6.7	10.0	9.0	1	31
+Galaxy Uranus U-3	9.0	9.0	6.0	6.7	7.5	9.0	2	30
+Galaxy Venus V-1	8.9	9.1	6.8	6.3	8.3	9.2	6	110
+Galaxy Venus V-11	9.5	9.8	7.5	6.7	10.0	9.7	2	60
+Galaxy Venus V-12	8.7	9.1	5.0	6.1	10.0	9.1	6	44
+Galaxy Venus V-13	8.4	8.7	4.5	5.2	7.5	9.3	6	40
+Galaxy Venus V-14	8.8	8.8	5.4	5.3	9.7	9.0	24	46
+Galaxy Venus V-14 PRO	8.9	8.8	6.5	6.3	8.8	9.4	4	56
+Galaxy Venus V-15	9.3	8.4	5.0	6.0	7.5	8.9	2	54
+Galaxy Venus V-16	8.8	7.5	6.0	7.5	7.5	8.5	2	54
+Galaxy Venus V-2	8.5	7.5	5.0	6.7	5.0	10.0	1	110
+Galaxy Venus V-3	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	170
+Galaxy Venus V-4	9.3	9.2	5.7	6.7	9.2	9.3	6	169
+Galaxy VF5	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	62
+Galaxy W-1	8.9	8.5	5.4	5.5	10.0	9.3	5	50
+Galaxy W-2	8.1	8.6	5.7	5.2	10.0	7.4	3	50
+Galaxy W-3	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	55
+Galaxy W-4	8.5	5.0	10.0	8.2	5.0	6.5	2	30
+Galaxy W-5	9.0	8.0	3.0	5.2	10.0	9.0	1	26
+Galaxy W-6	7.9	8.8	4.1	5.4	9.2	8.9	28	40
+Galaxy Y-1	8.5	8.5	5.0	6.7	(not rated)	8.0	1	25
+Galaxy Y-2	9.1	9.0	7.3	5.7	6.7	9.2	5	15
+Galaxy Y-3	8.3	5.5	7.0	6.0	10.0	9.2	5	21
+Galaxy Y-4	8.2	8.4	6.6	7.3	9.3	8.6	9	31
+Galaxy Yinhe Def 5	4.5	10.0	1.5	2.6	10.0	9.5	2	20
+Galaxy Z5 VF	8.2	9.5	6.0	3.7	10.0	9.0	2	100
+Galaxy Z7 VF	8.9	9.4	6.0	4.5	10.0	9.3	2	100
+Gambler AC Hero	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	32
+Gambler Arylate Carbon	7.6	8.7	4.2	5.3	10.0	8.3	13	32
+Gambler Black Diamond Light (Texilium)	8.7	8.1	5.5	6.0	10.0	8.6	4	32
+Gambler Black Whirlwind	6.8	7.7	7.0	7.7	1.7	6.6	3	16
+Gambler Exotic Zebra Wood IM8 Carbon	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	32
+Gambler Fire Dragon Fast	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	40
+Gambler Fire Dragon Hinoki	8.9	8.5	7.0	6.7	10.0	8.5	1	40
+Gambler Fire Dragon Touch	8.0	9.0	0.0	3.7	10.0	10.0	1	40
+Gambler Gun	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	26
+Gambler Mega Weave Arylate Carbon	8.0	9.0	3.0	5.2	10.0	9.0	1	40
+Gambler Nano Boron Carbon	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	32
+Gambler Oversize Carbon	8.5	9.0	3.0	5.2	10.0	8.8	2	32
+Gambler Oversize Kevlar	6.4	8.5	2.2	5.8	10.0	8.1	5	32
+Gambler Rose Wood IM8 Carbon	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	32
+Gambler Tension Hinoki	8.3	7.5	5.0	5.2	0.0	7.5	2	32
+Gambler Vector Hinoki	9.0	9.0	5.0	5.2	10.0	10.0	1	40
+Gambler Vector Speed	9.4	8.5	3.0	6.7	10.0	9.4	1	40
+Gambler Vector Target	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	40
+Gambler Wing Wood IM8 Carbon	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	32
+Gambler Zen	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	16
+Gewo Allround Classic	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	36
+Gewo Allround Pro 4.0	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	62
+Gewo Balsa Carbon 375	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	75
+Gewo Balsa Carbon 575	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	75
+Gewo Balsa Carbon 775	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	75
+Gewo Dynatec TI	10.0	10.0	5.0	6.7	10.0	10.0	1	62
+Gewo Dynatec ZV	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	80
+Gewo Force Arc	8.8	8.3	5.0	6.7	10.0	9.0	1	120
+Gewo High-Power 6.5	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	62
+Gewo Hybrid Carbon A-Speed ALL+	5.8	8.0	5.0	6.0	10.0	7.8	2	33
+Gewo Hybrid Carbon M-Speed Off-	9.2	9.6	(not rated)	(not rated)	10.0	9.0	1	37
+Gewo Hybrid Carbon X-Speed OFF	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	56
+Gewo OF Feeling 5.5	9.4	7.5	5.0	6.7	10.0	9.0	1	62
+Gewo Polaris Control Glasfiber	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	65
+Gewo Power AR 5.0	8.8	9.0	5.0	6.7	10.0	(not rated)	1	61
+Gewo Power Control 4.5	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	62
+Gewo Super Control	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	37
+Gewo Super-Force CF	8.9	9.6	2.7	7.8	9.2	9.4	7	120
+Gewo Velox Alpha Overdrive	8.2	9.0	5.0	5.7	10.0	9.0	3	44
+Gewo Velox Alpha Speedster	10.0	10.0	7.0	8.2	10.0	9.5	2	46
+Gewo Velox Power Control	7.9	8.5	7.0	5.2	10.0	8.3	2	41
+Gewo X-Force VC	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	145
+Gewo Youngster	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	20
+Gewo Zoom Balance ALL+	8.7	9.8	7.0	6.7	10.0	9.8	2	40
+Gewo Zoom Pro	8.0	8.5	5.0	6.7	10.0	9.0	1	35
+Gewo Zoom Pro OFF-	8.9	9.1	5.0	5.2	10.0	9.1	1	35
+Giant Dragon Balsa Carbon 2C	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	48
+Giant Dragon BALSACARBON X7	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	43
+Giant Dragon BALSAdef	7.1	8.9	5.4	5.5	7.5	8.7	6	30
+Giant Dragon BALSApower	8.1	8.5	7.0	2.2	10.0	8.4	1	28
+Giant Dragon BS7100	7.5	8.0	3.0	5.2	10.0	8.0	1	26
+Giant Dragon BS7200	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	24
+Giant Dragon Challenger XS	8.5	8.0	7.0	6.7	10.0	8.5	1	20
+Giant Dragon Damascus 7P	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	42
+Giant Dragon Ebony King 5	8.0	6.0	7.0	5.2	10.0	8.0	1	85
+Giant Dragon Ebony King 7	9.5	7.0	7.0	5.2	10.0	9.0	1	95
+Giant Dragon Fiberenergy 3K	9.0	7.8	6.0	6.7	10.0	8.8	3	48
+Giant Dragon Fiberenergy Kevlar	8.4	8.8	6.3	5.2	10.0	8.9	4	44
+Giant Dragon Fiberpotence Kevlar	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	55
+Giant Dragon Katana 5P	7.8	7.0	5.0	5.2	10.0	7.5	2	48
+Giant Dragon Kris	8.2	8.4	7.0	6.2	8.3	9.0	4	26
+Giant Dragon Kris Carbon	(not rated)	(not rated)	(not rated)	(not rated)	0.0	2.0	1	40
+Giant Dragon Kris II	7.9	8.9	5.0	5.2	5.0	8.6	3	35
+Giant Dragon Kris Special	8.0	7.5	7.5	7.6	7.5	7.5	2	38
+Giant Dragon Longquan	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	24
+Giant Dragon Nunchaku	9.0	8.8	5.5	7.1	8.3	9.0	4	30
+Giant Dragon Overimagine	9.0	5.0	5.0	8.2	0.0	1.0	1	30
+Giant Dragon SuperBalsa II (2)	9.8	8.1	8.5	2.2	10.0	(not rated)	2	28
+Giant Dragon Topspeed	8.8	8.5	6.0	6.7	7.5	8.3	2	26
+GKI Euro Jumbo	9.0	9.0	5.0	6.7	10.0	9.0	1	80
+GKI Euro XX	7.6	7.8	5.0	6.7	7.5	8.4	2	31
+Globe 521 CG	9.2	7.3	10.0	10.0	5.0	8.0	1	30
+Globe 522	9.5	8.3	6.8	7.5	10.0	9.0	4	32
+Globe 581	6.0	6.0	5.0	(not rated)	(not rated)	5.0	1	23
+Globe 582	8.8	9.0	5.0	5.2	5.0	9.0	2	21
+Globe 583	8.0	8.3	4.5	6.3	5.0	8.1	4	10
+Globe 589	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	24
+Globe 782	9.0	8.5	7.0	6.7	5.0	(not rated)	1	20
+Globe 783	8.4	8.3	5.0	5.2	10.0	8.3	2	10
+Globe Biaowang 1	9.0	8.5	5.0	5.2	5.0	9.0	1	27
+Globe Biaowang BW-4	7.0	9.0	5.0	5.2	10.0	9.0	2	32
+Globe Biaowang BW-5	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	36
+Globe Prize 502	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	15
+Globe Salvo 584 Minor	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	21
+Goldway MC1	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	100
+Haifu I	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	58
+Haifu V	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	54
+Hallmark Aurora	5.5	9.1	7.4	7.8	9.3	8.7	8	50
+Hallmark Carbon Extreme	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	75
+Hallmark Combination Effect	8.3	9.5	3.7	3.2	6.7	9.3	4	40
+Hallmark Strategy	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	1	0
+Hallmark Ultra	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	50
+Hanno Allround Classic	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	55
+Hanno Masterpiece MF1	6.0	6.0	(not rated)	(not rated)	(not rated)	10.0	1	100
+Hanno Offensive RC - 1	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	67
+Huaruite 2074	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	15
+Huaruite 2076	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	8
+Huaruite 2091	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	8.5	1	0
+Huaruite Bamboo V	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	32
+Huaruite Black Crystal Carbon	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	0
+Huaruite Clipper	8.3	9.2	5.4	5.2	7.5	9.1	20	12
+Huaruite Ebenholz NCT V	9.0	8.0	7.0	8.2	10.0	8.0	1	25
+Huaruite Ebenholz NCT VII	9.5	8.5	10.0	8.2	5.0	9.1	1	32
+Huaruite Narra Carbon	9.4	9.0	10.0	8.2	5.0	9.5	2	22
+Huaruite Palisander NCT V	8.7	8.9	5.0	6.7	10.0	8.6	1	22
+Huaruite Palisander NCT VII	9.3	8.7	6.0	6.7	10.0	9.7	2	25
+Huaruite Red Carbon	9.2	8.3	7.0	7.7	6.3	8.9	4	15
+Huaruite Rosewood NCT V	9.2	8.8	6.0	8.7	10.0	9.3	5	25
+Huaruite Rosewood NCT VII	9.0	9.0	7.0	6.7	10.0	9.9	2	32
+Huaruite Sunshine-1	7.2	9.0	3.0	5.2	(not rated)	7.5	1	12
+Huieson 7 Ply Hybrid Carbon	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	6
+Huieson Arylate Carbon	9.0	8.7	5.0	6.7	10.0	9.0	1	20
+Huieson S3	10.0	10.0	5.0	5.2	10.0	10.0	1	10
+Huieson X1	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	5
+Hunter Black Widow	9.0	8.0	7.0	6.7	5.0	9.0	1	65
+Hunter Equalizer	6.0	8.0	3.0	3.7	(not rated)	7.0	1	45
+Hunter Fang	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	54
+Hunter Flame	8.2	8.5	6.6	5.8	10.0	8.9	5	49
+Hunter Hawk	6.0	9.5	0.0	3.7	10.0	9.0	1	54
+Hunter Inferno	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	78
+Hunter Power-Touch	8.9	7.1	5.0	6.7	(not rated)	9.0	3	49
+Hunter Pyro	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	49
+Hunter Techno Power	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	69
+Hunter Venom	9.5	7.8	7.0	8.2	10.0	9.0	1	55
+Hunter X-Carbon	8.5	6.0	7.0	8.2	(not rated)	8.5	1	73
+Imperial Balsa XT	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	45
+Imperial Cross Carbon Speed	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	60
+Imperial Master Line Allround	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	30
+Imperial Master Line Allround +	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	30
+Imperial Master Line Defensiv	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	30
+Imperial Master Line Offensiv	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	30
+ITC Accelum 5	9.0	8.5	5.0	6.7	10.0	9.5	1	65
+ITC Accelum Carbon	10.0	8.0	10.0	10.0	10.0	(not rated)	1	79
+ITC Challenge Force	7.5	9.0	5.0	3.7	10.0	9.0	1	60
+ITC Challenge Speed	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	73
+ITC Dynarc Q3	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	100
+ITC Dynarc T5	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	70
+ITC Dynarc T7	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	75
+ITC Premier XC	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	125
+ITC Premier XF	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	125
+ITC Premier XQ	9.0	8.8	7.0	6.7	10.0	9.0	1	90
+ITC Premier XR	8.8	9.0	7.0	6.7	(not rated)	9.0	1	160
+ITC Radix Express	9.5	9.8	7.0	5.2	10.0	9.9	1	110
+ITC Strike Carbon	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	109
+Japsko Japsko Carbon	8.7	8.2	3.0	5.2	10.0	8.5	1	35
+JOOLA Air Carbon	9.4	9.3	7.3	6.0	10.0	9.4	4	179
+JOOLA Air Fibre	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	169
+JOOLA Arrow	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	140
+JOOLA Aruna OFF	9.0	9.4	5.1	4.8	10.0	9.4	12	140
+JOOLA Aruna OFF+	9.5	9.0	3.0	6.7	7.5	9.0	2	175
+JOOLA Black Rose	10.0	9.5	(not rated)	(not rated)	(not rated)	9.5	1	199
+JOOLA Bomb Extrem MCD	9.7	8.1	6.9	6.9	10.0	8.9	18	110
+JOOLA Bomb Fast MCD	9.4	8.9	(not rated)	(not rated)	(not rated)	9.0	2	110
+JOOLA Carbon	7.9	7.3	7.0	7.9	8.8	7.9	5	25
+JOOLA Carbon Pro	7.9	7.9	7.1	6.5	6.7	8.6	7	63
+JOOLA Carbon Strung	9.0	7.5	7.0	6.7	10.0	10.0	1	35
+JOOLA Carbon SWE	8.5	8.5	7.0	7.5	10.0	8.5	3	110
+JOOLA Cat	7.0	8.0	7.0	6.7	(not rated)	8.0	1	50
+JOOLA Chen Defender	6.8	10.0	0.0	0.7	10.0	9.8	4	70
+JOOLA Chen Junior	7.5	10.0	5.0	5.2	10.0	8.7	2	30
+JOOLA Chen Weixing	7.8	8.7	5.6	5.4	8.6	8.8	18	75
+JOOLA Colt OFF Control	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	75
+JOOLA Colt OFF Speed	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	75
+JOOLA Defense	10.0	9.0	0.0	3.7	10.0	9.0	1	45
+JOOLA Eagle Carbon	9.0	8.7	10.0	6.7	10.0	9.2	1	84
+JOOLA Eagle Fast	8.2	8.8	5.5	5.8	9.3	8.6	12	70
+JOOLA Eagle Medium	8.0	9.0	5.0	4.8	6.3	9.0	4	55
+JOOLA Eagle Speed	8.4	9.1	5.0	6.7	10.0	7.9	3	56
+JOOLA Energon Super PBO-c	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	269
+JOOLA Falcon Fast	8.0	8.8	7.0	6.7	10.0	8.6	2	49
+JOOLA Falcon Fast+	9.1	8.2	6.3	6.7	10.0	8.8	3	59
+JOOLA Falcon Medium	8.4	9.1	4.5	5.2	10.0	9.0	4	30
+JOOLA Fejer-Konnerth Light	7.3	8.8	4.0	4.5	(not rated)	7.5	2	44
+JOOLA Fetzner Balsa	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	50
+JOOLA Fetzner Cello	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	38
+JOOLA Fetzner Powerall	7.5	9.0	(not rated)	(not rated)	(not rated)	8.0	1	38
+JOOLA Fever	8.9	9.2	5.6	5.7	9.6	9.6	20	140
+JOOLA Flame Extreme	9.6	8.2	6.6	7.1	8.9	9.3	17	90
+JOOLA Flame Fast	8.7	9.2	4.8	5.7	10.0	9.2	12	80
+JOOLA Flame Low	7.0	10.0	7.0	3.7	5.0	8.0	1	85
+JOOLA Flame Medium	7.2	8.7	4.6	4.8	8.8	8.6	5	75
+JOOLA Flame VII (7)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	100
+JOOLA Genesis	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	140
+JOOLA Granite	6.0	9.5	0.0	2.2	10.0	9.0	1	23
+JOOLA Greenline Extreme	9.0	8.0	6.0	6.7	10.0	9.2	2	109
+JOOLA Greenline Fast	8.0	7.0	5.0	6.7	5.0	(not rated)	1	99
+JOOLA Greenline Medium	7.0	9.5	5.0	3.7	10.0	8.8	2	89
+JOOLA Guo 3 C	9.6	7.9	7.3	8.7	10.0	9.3	4	40
+JOOLA Hold White	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	40
+JOOLA K ALL	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	45
+JOOLA K1	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	37
+JOOLA K3	8.5	7.5	10.0	5.2	10.0	8.0	2	41
+JOOLA K4	9.5	9.6	7.5	10.0	10.0	9.5	2	0
+JOOLA K5	7.6	8.2	3.2	3.5	5.8	7.6	7	63
+JOOLA K6	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	0
+JOOLA K7	9.4	8.2	7.0	6.7	7.5	9.4	3	92
+JOOLA Kool	9.6	7.7	8.8	7.1	8.8	9.3	29	128
+JOOLA Legend	7.8	9.6	4.3	4.7	10.0	9.5	9	37
+JOOLA Linus	8.0	8.9	5.0	6.3	10.0	8.9	4	85
+JOOLA Markovic	8.6	9.1	7.3	5.2	10.0	9.3	4	45
+JOOLA MC1	9.7	9.0	5.9	6.5	9.3	9.5	26	99
+JOOLA MC1 (Japanese Penhold)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	78
+JOOLA Mikado ALL+	6.9	9.1	5.0	5.2	10.0	8.8	2	70
+JOOLA Mikado OFF	8.7	8.6	5.0	5.2	10.0	8.9	1	80
+JOOLA Mikado OFF+	9.3	8.5	5.0	6.7	10.0	9.3	2	90
+JOOLA Network	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	66
+JOOLA Nobilis PBO-c	9.0	9.5	3.0	8.2	(not rated)	9.0	2	200
+JOOLA Off-Tex	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	0
+JOOLA Offense	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	41
+JOOLA P. Saive Stress	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	38
+JOOLA Panther	9.0	9.3	5.3	6.5	4.2	7.8	8	90
+JOOLA Power Allround	7.0	8.5	5.0	5.2	5.0	8.5	1	41
+JOOLA Precision Light	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	50
+JOOLA Quattro Carbon	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	149
+JOOLA R*1	9.6	7.0	6.0	4.7	7.9	8.6	9	45
+JOOLA Rossi Allround 07	8.2	9.0	5.0	4.7	6.7	8.8	3	44
+JOOLA Rossi Carbon	9.5	8.5	(not rated)	8.2	(not rated)	9.0	3	85
+JOOLA Rossi Exact	6.0	8.0	5.0	5.2	(not rated)	7.0	1	50
+JOOLA Rossi Fire 07	8.6	8.7	5.0	6.2	8.3	9.1	5	45
+JOOLA Rossi Force	9.3	8.8	6.2	6.2	9.5	9.3	14	99
+JOOLA Rossi Junior	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	1	30
+JOOLA Rossi Junior 07	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	39
+JOOLA Rossi Power Light	8.0	9.0	3.0	5.2	10.0	9.0	1	46
+JOOLA Rossi Trix Fast	8.0	6.0	3.0	0.0	5.0	6.9	1	58
+JOOLA Rosskopf Allround	6.5	9.4	3.8	4.3	10.0	8.8	6	44
+JOOLA Rosskopf Emotion	8.7	9.1	5.5	5.7	9.8	9.3	37	100
+JOOLA Rosskopf Fire	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	40
+JOOLA Rosskopf Power	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	46
+JOOLA Sheikh	8.3	8.0	5.0	6.7	2.5	9.0	2	55
+JOOLA Solja OFF+	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	110
+JOOLA Solja OFF-	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	90
+JOOLA Spirit ALL+	9.0	8.9	5.0	6.7	10.0	9.9	1	44
+JOOLA Spirit OFF	8.9	7.5	6.0	4.5	2.5	9.4	2	48
+JOOLA Spirit OFF+	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	80
+JOOLA Stefan Feth Cross	7.8	8.0	5.0	5.2	5.0	8.7	2	44
+JOOLA Sting	9.0	8.7	5.7	6.7	5.0	9.0	3	53
+JOOLA Tactics	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	50
+JOOLA Ticker	6.0	8.0	3.0	5.2	10.0	(not rated)	1	26
+JOOLA Toni Hold	5.0	9.0	1.5	2.0	10.0	8.5	3	37
+JOOLA Toni Hold White Spot	5.4	9.6	3.8	2.1	10.0	8.9	5	45
+JOOLA Tony Gavlas	9.0	8.5	7.0	8.2	10.0	9.2	1	75
+JOOLA Torre ALL+	6.8	8.9	6.0	3.7	10.0	8.0	2	47
+JOOLA Torre Carbon	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	50
+JOOLA Torre OFF	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	40
+JOOLA TPE Feeling	8.4	8.6	4.0	6.0	10.0	9.1	2	75
+JOOLA TPE Feeling XS	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	159
+JOOLA TPE Fight	9.6	8.5	7.0	6.7	10.0	9.5	3	150
+JOOLA TPE Nature	8.8	9.4	5.3	4.8	10.0	9.3	9	75
+JOOLA TPE Perform	9.0	9.3	5.3	6.1	9.3	9.3	9	70
+JOOLA Trix Fast	8.3	7.3	8.0	7.5	10.0	9.0	4	70
+JOOLA Trix Medium	7.8	8.5	5.0	6.7	10.0	8.5	1	60
+JOOLA Viking	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	1	130
+JOOLA Viva	8.4	8.8	5.9	6.1	9.0	9.2	17	65
+JOOLA Viva Junior	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	50
+JOOLA Wing Carbon	9.5	7.0	7.0	6.7	10.0	8.8	1	139
+JOOLA Wing Fast	8.7	7.3	7.4	7.5	7.5	8.9	8	90
+JOOLA Wing Medium	7.6	8.9	5.0	4.9	10.0	8.3	6	70
+JOOLA Wing Medium Junior	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	79
+JOOLA Wing Passion Extreme	9.6	8.3	8.1	7.5	9.5	9.3	15	110
+JOOLA Wing Passion Fast	8.3	7.3	5.8	5.1	9.0	8.4	10	99
+JOOLA Wing Passion Medium	6.6	8.8	4.3	4.2	8.3	9.5	3	70
+JOOLA Wosik Limit	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	0
+JOOLA ZeLeBRO PBO-c	9.3	9.0	6.0	5.2	10.0	9.2	2	169
+JOOLA Zolli Light	6.8	8.0	5.0	4.5	10.0	8.0	3	46
+Juic Air Fiber	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	95
+Juic Air Large	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	66
+Juic Air Texa	9.5	9.5	7.0	5.2	10.0	9.7	1	90
+Juic Bamboo Shot	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	37
+Juic Cortan Super Light	7.5	8.3	5.0	2.2	10.0	7.5	1	75
+Juic Euro Chopper	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	44
+Juic Euro Cut	7.5	10.0	5.0	3.7	10.0	10.0	1	54
+Juic Exacta	7.2	8.0	3.0	5.2	(not rated)	8.5	1	31
+Juic Fiber Shot	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	85
+Juic Fracta	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	69
+Juic Ghost - ST	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	80
+Juic Hinoki 3	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	68
+Juic Hinoki Carbon III	9.5	8.3	7.0	6.7	(not rated)	9.0	1	65
+Juic Hybrid	6.0	8.0	5.0	6.7	5.0	7.0	1	45
+Juic Iseki Carbon	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	38
+Juic Kalinic	7.0	8.0	5.0	5.2	5.0	8.0	1	49
+Juic Kiso Hinoki	9.5	6.4	7.3	3.2	6.7	7.7	5	73
+Juic Lafita	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	84
+Juic Light Offence III	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	20
+Juic Maple Shot	8.9	8.2	5.0	5.2	10.0	9.1	2	49
+Juic Nebula	8.6	6.9	7.0	6.7	5.0	9.0	1	60
+Juic Sprout	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	20
+Juic Stellan Bengtsson Alpha	8.3	8.9	5.0	5.2	7.5	9.0	6	78
+Juic Stellan Bengtsson Balsa-C	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	94
+Juic Texalium	8.6	8.5	3.0	2.2	10.0	9.1	1	49
+Killerspin Diamond C	9.6	8.9	4.3	4.7	10.0	9.5	3	135
+Killerspin Diamond CQ	9.1	8.3	6.0	5.6	9.3	8.9	8	145
+Killerspin Diamond TC	9.6	8.4	5.3	7.7	10.0	9.6	8	160
+Killerspin Diamond TX	9.6	7.9	3.0	8.2	10.0	9.0	1	120
+Killerspin Kido 5A	8.4	9.1	4.5	6.0	10.0	9.4	4	64
+Killerspin Kido 7F	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	50
+Killerspin Kido 7P	8.7	8.8	6.0	6.5	9.0	8.6	6	110
+Killerspin Kido 7R	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	65
+Killerspin Kido 7Z	7.8	7.5	3.0	5.2	10.0	8.2	1	68
+Killerspin Kido SK	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	79
+Killerspin Stilo	9.0	7.0	10.0	10.0	5.0	7.5	1	80
+Killerspin Stilo Z	9.6	8.7	7.0	9.1	10.0	(not rated)	3	85
+Killerspin X50	7.0	7.0	5.0	5.2	5.0	7.0	1	50
+Killerspin X70	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	70
+Killerspin X90	8.0	8.5	7.0	5.2	10.0	8.2	1	90
+Kokutaku Bishu No.1 Specialist	9.5	9.5	5.0	2.2	10.0	10.0	1	140
+Kokutaku Tulpe Carbon 704	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	20
+KTL (LKT) 168	8.5	8.4	4.3	5.7	8.0	9.1	6	50
+KTL (LKT) 2828	9.7	8.0	7.0	8.2	10.0	9.3	1	37
+KTL (LKT) 368	7.9	9.4	3.7	5.2	10.0	9.0	4	45
+KTL (LKT) 9010	9.6	9.0	6.8	7.5	8.3	9.0	4	50
+KTL (LKT) 9020	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	18
+KTL (LKT) 9030	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	18
+KTL (LKT) Ayous Hinoki	7.7	8.5	3.6	4.6	6.7	8.5	10	22
+KTL (LKT) Black Coffee	8.8	8.6	(not rated)	(not rated)	(not rated)	(not rated)	1	32
+KTL (LKT) Blue Thunder	8.5	8.3	6.2	6.7	8.3	8.5	5	32
+KTL (LKT) Carbon King	9.3	8.5	6.0	6.7	10.0	9.0	2	32
+KTL (LKT) Glass Power	9.0	8.3	(not rated)	(not rated)	(not rated)	7.9	1	22
+KTL (LKT) Gun	8.5	7.5	6.8	5.7	8.3	8.4	5	18
+KTL (LKT) Instinct	6.5	8.8	4.2	4.6	6.8	7.7	27	16
+KTL (LKT) Instinct+	8.0	8.4	5.7	5.8	7.8	8.4	12	16
+KTL (LKT) King Kong Carbon	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	48
+KTL (LKT) LKT Blackwhirlwind Transformer	7.5	9.0	5.0	5.2	10.0	9.0	1	30
+KTL (LKT) Loopsonic	7.0	8.5	5.0	5.2	8.3	8.2	3	7
+KTL (LKT) Lord of the Balance	10.0	10.0	10.0	10.0	10.0	10.0	1	18
+KTL (LKT) Lord of the Control	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	18
+KTL (LKT) Lord of the Speed	9.1	7.5	7.0	7.7	8.3	8.3	4	22
+KTL (LKT) Mind Game	8.2	8.6	(not rated)	(not rated)	(not rated)	(not rated)	1	18
+KTL (LKT) New Star	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	25
+KTL (LKT) No. 1 Hinoki Transformer	8.7	8.5	5.0	5.2	(not rated)	8.7	4	30
+KTL (LKT) One	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	24
+KTL (LKT) Pro XC	6.5	9.0	5.0	5.2	10.0	9.0	1	18
+KTL (LKT) Pro XF	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	18
+KTL (LKT) Pro XF	9.0	7.0	5.0	8.2	10.0	8.0	1	0
+KTL (LKT) Puma	5.1	9.5	5.0	6.2	10.0	9.6	4	32
+KTL (LKT) Tension	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	32
+KTL (LKT) Toxic 3	4.8	9.2	1.5	3.5	7.5	8.1	11	24
+KTL (LKT) Toxic 5	6.3	8.0	5.0	6.7	8.3	8.0	5	22
+KTL (LKT) Will Power	9.3	8.3	8.5	7.7	7.5	9.1	10	32
+KTL (LKT) Zebra Carbon	8.7	9.2	7.0	6.1	10.0	8.9	7	32
+LHS B4.0 Offensive	8.0	7.5	(not rated)	(not rated)	(not rated)	7.5	1	40
+LHS K3.2 Offensive	8.5	9.0	5.0	5.2	10.0	9.0	1	38
+Lion Aratron All+	6.5	10.0	5.0	6.7	10.0	10.0	1	55
+Mizuno Endeavor	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	60
+Mizuno Fortius	9.6	9.6	7.0	8.2	10.0	9.6	1	52
+Mizuno Fortius FT	8.8	9.2	7.0	6.7	(not rated)	9.0	1	75
+Mizuno Fortius FT Light	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	65
+Mizuno Fortius FT5	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	60
+Mizuno SST	9.0	9.0	8.5	9.1	7.5	9.3	2	118
+Mizuno Swifter	8.0	8.3	5.0	3.7	10.0	9.5	1	50
+Mizuno Valour	9.0	8.0	7.0	5.2	10.0	9.0	1	90
+Mizuno Zephyr	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	45
+Neottec Amagi	7.9	9.5	5.0	3.7	10.0	9.5	1	63
+Neottec Amagi All+	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	65
+Neottec Balsa Carbon	9.0	7.0	7.0	8.2	10.0	8.0	1	55
+Neottec Enkei Light	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	36
+Neottec Gamma All+	6.5	9.0	4.0	4.5	10.0	9.0	2	27
+Neottec Hinoki Carbon	10.0	7.0	7.0	8.2	10.0	9.0	1	59
+Neottec Inazuma	9.5	5.0	7.0	6.7	10.0	9.0	1	35
+Neottec Kanji DEF	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	38
+Neottec Kevlar Special	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	43
+Neottec Magic Control	6.5	9.0	6.0	4.5	(not rated)	8.5	2	22
+Neottec Revolution	9.0	6.0	7.0	5.2	10.0	8.0	2	21
+Neottec Selar	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	113
+Neottec Terves	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	96
+Neottec Voodoo Classic	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	31
+Neottec X7 Special	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	39
+Neottec X7 Special Turbo	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	41
+Nexy Arirang	9.0	9.5	5.0	5.7	10.0	9.5	3	150
+Nexy Calix	8.9	9.3	5.0	5.8	8.8	9.3	13	150
+Nexy Calix 2	8.8	8.6	5.0	6.7	10.0	8.9	3	170
+Nexy Color	7.0	8.6	4.3	5.2	10.0	8.3	5	100
+Nexy Hannibal	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	150
+Nexy Higgs	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	130
+Nexy Kanaph	9.2	9.3	4.7	7.2	10.0	9.4	3	130
+Nexy Kim Jung Hoon	8.5	9.5	7.0	5.2	(not rated)	9.0	1	120
+Nexy Labyrinthos	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	130
+Nexy Lissom	8.0	8.0	3.0	5.2	5.0	9.0	1	100
+Nexy Oscar	8.0	9.3	5.0	6.7	10.0	9.3	2	150
+Nexy Peterpan	8.9	8.3	3.0	5.2	10.0	8.9	1	80
+Nexy Qabod (Quabot)	9.6	8.9	6.0	7.5	10.0	9.7	2	200
+Nexy Spartacus	8.0	9.0	3.0	2.2	10.0	9.0	1	110
+Nexy Spear	8.5	9.3	5.3	5.5	10.0	9.3	7	60
+Nexy Z Blade	8.9	9.6	5.0	5.2	(not rated)	9.6	1	90
+Niceshot Origin	8.0	9.3	3.0	2.2	10.0	9.5	1	65
+Nimatsu Ardency 3.5	9.0	8.0	3.0	3.7	10.0	8.5	1	0
+Nimatsu Balistic Balance	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	0
+Nimatsu Balistic Glasfibre	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	0
+Nimatsu Balistic Placement	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	0
+Nimatsu Calculus Balsa 20	8.8	9.2	(not rated)	(not rated)	10.0	(not rated)	2	0
+Nimatsu Celsior 5.2 Control ALL	8.6	10.0	5.0	5.2	10.0	10.0	1	53
+Nimatsu Celsior 5.6 Direct Bamboo	8.4	9.5	3.0	5.2	10.0	9.6	1	66
+Nimatsu Pulse	8.5	9.0	5.0	5.2	10.0	8.5	1	42
+Nimatsu TSUNAMI COMBI ATTACK	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	1	85
+Nimatsu Tsunami DEF Light	8.0	8.5	5.0	6.7	(not rated)	8.0	1	0
+Nittaku A P (EXCELLENT AP)	9.5	8.4	7.0	4.2	10.0	9.3	3	140
+Nittaku AA	8.5	8.3	5.0	4.5	7.5	8.8	2	0
+Nittaku Acoustic	8.5	9.2	4.8	5.3	9.9	9.6	59	165
+Nittaku Acoustic  Large Handle	9.0	9.4	5.0	5.2	10.0	9.7	3	164
+Nittaku Acoustic Carbon	9.3	9.0	6.1	6.4	8.8	9.2	13	179
+Nittaku Acoustic Carbon Inner	8.7	9.7	5.5	5.6	10.0	9.9	4	180
+Nittaku Acoustic Carbon Inner Large Handle	8.7	9.6	5.0	5.8	8.6	9.5	9	171
+Nittaku Acoustic Carbon Outer Large Handle	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	180
+Nittaku Active 7	9.2	7.8	3.0	6.7	(not rated)	8.5	2	0
+Nittaku Adelie	8.4	8.2	6.0	7.2	8.0	8.5	8	147
+Nittaku Airuline 8.8	9.0	10.0	7.0	6.7	10.0	9.0	1	45
+Nittaku Alulass	8.0	9.3	5.4	5.5	10.0	9.5	6	87
+Nittaku Amin	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	35
+Nittaku ANV Wan Nan	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	75
+Nittaku ANV WL	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	0
+Nittaku Barwell	9.2	8.9	4.1	5.2	10.0	9.6	9	165
+Nittaku Barwell Fleet	9.1	9.4	6.3	6.8	9.3	9.5	48	225
+Nittaku Bizelox	8.4	7.9	4.0	6.7	10.0	8.3	2	60
+Nittaku Bloodwood	8.7	9.2	8.5	6.7	10.0	9.2	2	110
+Nittaku Canaldy	7.9	8.1	5.0	3.0	10.0	8.4	3	50
+Nittaku Cellent	9.1	9.3	5.0	6.7	10.0	9.5	1	50
+Nittaku Cellenty Balca	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	67
+Nittaku Cellenty W05	9.0	8.0	7.0	6.7	5.0	9.0	1	58
+Nittaku Clout	8.3	8.7	5.0	3.4	10.0	9.3	5	45
+Nittaku Endless	6.0	8.5	6.0	5.2	10.0	9.5	2	43
+Nittaku Evoocial 7	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	0
+Nittaku Excelity	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	9.0	1	45
+Nittaku Expert-H	9.0	7.0	5.0	6.7	10.0	8.5	1	50
+Nittaku Factive Carbon	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	60
+Nittaku Feminist	8.0	7.0	5.0	6.7	0.0	7.0	1	60
+Nittaku Feruku	10.0	7.0	7.0	8.2	5.0	6.5	1	136
+Nittaku Fillmea	9.0	8.0	5.0	6.7	10.0	9.0	1	90
+Nittaku Flame	9.2	9.5	7.0	6.7	10.0	9.2	2	71
+Nittaku Flame Carbon	9.6	8.1	7.3	8.3	10.0	9.7	4	100
+Nittaku Flyatt Carbon	8.8	9.2	4.0	6.0	10.0	9.4	2	58
+Nittaku Flyatt Carbon Pro	8.5	8.0	6.0	6.7	5.0	8.5	2	75
+Nittaku Forestia	8.4	9.4	5.0	5.2	10.0	9.6	2	70
+Nittaku Goriki	6.5	10.0	5.0	5.2	10.0	9.8	1	300
+Nittaku Goriki Super Cut	7.0	10.0	7.0	8.2	10.0	10.0	1	350
+Nittaku Goriki Super Drive	9.3	9.8	7.0	6.7	10.0	9.9	3	300
+Nittaku Greenshank	8.4	8.1	5.0	5.2	10.0	8.8	4	76
+Nittaku Haneyoshi	6.5	10.0	6.0	6.2	10.0	9.8	3	88
+Nittaku Hinoblaze	8.9	9.4	7.0	6.3	10.0	9.8	4	130
+Nittaku Hurricane Wang Hao (H-WH)	7.0	8.0	5.0	5.2	10.0	9.0	1	50
+Nittaku Jenty	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	41
+Nittaku Jewelblade	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	160
+Nittaku Jie Schopp	4.0	10.0	0.0	2.2	10.0	9.0	1	35
+Nittaku Kasumi Basic	8.1	8.3	3.7	4.0	10.0	9.0	6	60
+Nittaku Kasumi Special	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	167
+Nittaku KCZ	9.0	7.5	8.5	8.9	8.3	9.2	9	85
+Nittaku Kim Kyung Ah	6.5	9.0	0.0	2.2	10.0	9.5	2	110
+Nittaku KVL	7.5	8.0	5.0	6.7	(not rated)	9.0	1	120
+Nittaku KVP-H	8.0	8.0	7.0	5.2	10.0	8.0	1	55
+Nittaku KVT	9.9	8.4	6.7	7.3	7.5	9.1	3	0
+Nittaku KVU	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	67
+Nittaku Large Beat Chikara	8.3	7.3	6.0	7.5	10.0	8.0	2	38
+Nittaku Large Spear	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	125
+Nittaku Latika	8.1	8.9	4.5	4.9	10.0	9.2	17	67
+Nittaku Latika 7	8.3	9.0	3.0	3.7	(not rated)	9.0	1	90
+Nittaku Latika Carbon	9.2	9.4	5.0	5.2	9.0	9.6	5	179
+Nittaku Latika Light	9.0	9.4	3.0	3.7	10.0	9.6	1	51
+Nittaku Lialox	8.6	8.6	5.0	6.3	10.0	8.6	4	90
+Nittaku Lonbaldia 7	9.3	7.1	5.0	6.7	10.0	8.6	1	59
+Nittaku Longer	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	0
+Nittaku Ludeack	8.6	9.1	4.7	5.8	10.0	9.5	16	100
+Nittaku Ludeack Fleet	9.1	8.3	6.3	6.2	8.6	8.9	12	199
+Nittaku Ludeack Power	8.9	9.1	6.0	6.0	(not rated)	9.0	2	113
+Nittaku Lumilas	8.8	8.7	3.0	4.0	10.0	9.4	6	65
+Nittaku Ma Long Carbon	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	180
+Nittaku Ma Long Five	8.0	9.0	3.0	3.7	(not rated)	8.5	1	145
+Nittaku Ma Long Seven	9.2	8.7	5.0	5.2	(not rated)	8.5	1	180
+Nittaku Meister Basaltec Inner	8.5	9.3	5.0	5.2	(not rated)	9.0	1	250
+Nittaku Meister Basaltec Outer	8.7	9.7	7.0	4.2	10.0	10.0	3	250
+Nittaku Meister Holz Sieben	8.6	9.5	6.3	5.7	10.0	9.0	3	250
+Nittaku Meran	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	118
+Nittaku Miyabi	8.5	8.3	4.8	1.8	8.8	9.1	8	90
+Nittaku Monophonic	7.0	9.5	7.0	5.2	(not rated)	(not rated)	1	53
+Nittaku Narcus	8.8	8.6	6.7	5.6	10.0	9.4	9	50
+Nittaku Negia	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	50
+Nittaku New Defence	4.0	10.0	7.5	3.0	7.5	8.5	2	40
+Nittaku Noveliar	9.7	9.7	7.0	5.2	10.0	10.0	1	129
+Nittaku Oxford	7.9	9.5	5.0	5.2	10.0	9.0	3	85
+Nittaku Piecea	9.0	9.0	7.0	2.2	10.0	9.9	1	80
+Nittaku Redshank	8.3	9.1	4.8	6.3	10.0	9.2	9	50
+Nittaku Resist	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	50
+Nittaku Resist II	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	55
+Nittaku Resoud (Resound)	10.0	9.9	7.0	10.0	10.0	10.0	3	1000
+Nittaku Rising	8.1	8.6	2.7	6.2	6.7	8.6	3	42
+Nittaku Ristal	7.0	8.0	3.0	2.2	10.0	8.0	1	40
+Nittaku Rorin	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	149
+Nittaku Rorin King	10.0	8.5	0.0	5.2	10.0	9.5	2	275
+Nittaku Runlox-5	8.7	8.2	3.5	4.8	8.8	9.0	4	90
+Nittaku Russelfor 9.2	9.2	8.8	7.0	2.2	10.0	9.0	1	50
+Nittaku Rutis	8.7	8.3	5.4	7.4	9.4	9.0	9	110
+Nittaku Rutis J	8.6	8.4	7.0	7.2	10.0	8.5	4	110
+Nittaku Rutis Power	9.6	9.1	6.0	7.5	10.0	9.5	2	115
+Nittaku Rutis Revo	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	100
+Nittaku S-Series S-5	9.1	9.2	7.0	5.2	10.0	9.0	2	99
+Nittaku S-Series S-7	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	120
+Nittaku S-Series S-CZ	9.0	9.5	3.0	3.7	(not rated)	9.4	1	140
+Nittaku Sanalion R-H	9.0	9.0	3.0	5.2	10.0	9.0	1	49
+Nittaku Sanalion S	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	49
+Nittaku Septear	8.4	8.4	4.7	3.7	9.7	9.2	17	50
+Nittaku Septear Carbon	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	1	110
+Nittaku Septear Lead	8.7	9.5	4.5	5.2	10.0	9.9	4	60
+Nittaku Shake Defence	6.5	9.0	6.3	7.3	8.9	8.6	11	110
+Nittaku Shellshock	8.5	8.0	5.0	3.7	5.0	8.8	1	60
+Nittaku Steak R-H	9.0	9.0	3.0	3.7	10.0	9.0	1	59
+Nittaku Survelian	8.5	8.3	4.7	5.4	8.6	9.3	8	65
+Nittaku Telion	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	1	55
+Nittaku Tenaly	8.4	9.0	5.0	3.7	10.0	10.0	1	65
+Nittaku Tenaly Acoustic	7.0	9.0	7.0	3.7	(not rated)	10.0	1	156
+Nittaku Tenaly Carbon	9.0	8.0	5.0	5.2	10.0	9.0	1	96
+Nittaku Tenor	9.1	8.9	6.9	6.8	9.4	9.6	17	177
+Nittaku Tesura	8.2	8.6	(not rated)	(not rated)	(not rated)	8.5	1	50
+Nittaku Tiluna	7.0	9.5	7.0	5.2	10.0	9.0	1	83
+Nittaku Titanbeat	9.9	6.9	3.0	3.7	10.0	9.2	1	124
+Nittaku Tornado King	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	120
+Nittaku Tornado King Power	10.0	10.0	5.0	5.2	10.0	10.0	1	185
+Nittaku Tornado King Speed	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	165
+Nittaku Torua	7.2	8.7	4.0	3.2	7.0	8.8	10	46
+Nittaku Violin	8.3	9.0	3.1	5.0	9.5	9.4	37	165
+Nittaku Violin Carbon	8.5	8.0	5.0	6.7	(not rated)	9.0	1	183
+Nittaku Violin J	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	135
+Nittaku Vioncello	6.0	9.4	(not rated)	(not rated)	10.0	8.9	1	180
+Nittaku Willtria	6.2	9.8	4.0	1.1	10.0	9.0	3	70
+Nittaku Wolfeed P-H	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	0
+Nittaku Wolfeed-R	9.9	9.2	5.7	6.7	10.0	10.0	3	100
+Nittaku Wonder Blade	7.7	8.0	5.7	6.7	10.0	8.7	3	77
+OSP Expert ALL+	7.6	9.3	3.4	5.9	8.6	9.4	13	112
+OSP Immune Active Def	6.9	9.6	3.7	4.7	10.0	9.5	3	128
+OSP Immune Active OX	7.0	9.8	5.0	5.2	10.0	9.8	1	132
+OSP Immune OX	7.0	9.8	5.0	5.2	10.0	9.8	1	119
+OSP Immune OX Classic	7.0	10.0	5.0	5.2	10.0	9.8	1	137
+OSP Martin CRW UFS	9.8	9.2	10.0	5.2	10.0	9.8	1	152
+OSP Martin OFF Pro	9.3	9.0	7.0	6.7	10.0	9.9	1	139
+OSP Musko OFF Pro	9.3	8.5	7.0	8.2	10.0	9.7	1	140
+OSP Ultimate II	9.2	8.5	5.0	2.2	10.0	10.0	1	130
+OSP Ultimate OFF	8.7	8.8	5.7	4.7	10.0	10.0	3	125
+OSP V'King OFF	9.0	9.2	6.0	6.7	10.0	9.5	2	155
+OSP Virtuoso CRWi UNI OFF	8.8	8.7	5.0	6.2	8.3	8.7	3	106
+OSP Virtuoso OFF-	8.1	9.2	3.8	4.3	9.3	9.3	36	112
+OSP Virtuoso+	8.5	8.8	4.8	6.0	10.0	9.0	8	120
+Palio B1	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	21
+Palio B2	9.0	8.0	(not rated)	(not rated)	(not rated)	(not rated)	1	21
+Palio B21	9.0	8.5	7.0	6.7	10.0	8.5	2	20
+Palio B3	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	21
+Palio Bow	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	99
+Palio C1	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	28
+Palio C2	9.0	8.0	5.0	6.7	5.0	(not rated)	1	35
+Palio C3	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	28
+Palio C5	9.0	7.0	5.0	5.2	0.0	8.0	2	46
+Palio C6	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	28
+Palio C88	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	25
+Palio CAT	7.9	8.7	5.0	3.7	10.0	8.9	8	22
+Palio ChiXiao	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	76
+Palio Chopper 1	7.1	8.3	6.3	4.7	(not rated)	9.0	3	22
+Palio Conqueror	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	35
+Palio Drunken Dragon	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	35
+Palio Emperor Dragon	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	27
+Palio ENERGY 01	8.3	9.9	5.0	3.7	10.0	9.8	1	18
+Palio ENERGY 02	8.5	9.5	5.0	6.0	10.0	8.9	2	20
+Palio ENERGY 03	8.7	9.4	5.9	6.1	9.7	9.1	16	15
+Palio ENERGY 04	9.0	9.0	6.3	6.2	10.0	9.5	6	28
+Palio ENERGY 05	9.1	8.6	7.3	7.5	8.8	8.8	4	27
+Palio ENERGY 06	9.5	9.2	10.0	8.2	10.0	9.8	1	60
+Palio Halberd	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	130
+Palio Hidden Dragon	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	0
+Palio Infinite-1	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	30
+Palio Infinite-2	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	28
+Palio Infinite-3	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	22
+Palio Jing Ke	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	40
+Palio KA	8.0	8.8	7.0	6.0	10.0	8.8	2	20
+Palio KC2	7.0	8.0	7.0	6.7	(not rated)	7.5	1	12
+Palio King Yue	8.0	9.5	6.7	4.0	10.0	9.5	3	20
+Palio Legend-1	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	65
+Palio Legend-2	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	62
+Palio Legend-3	8.9	8.6	5.0	6.7	7.5	9.1	2	55
+Palio Legend-4	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	55
+Palio M2	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	9
+Palio Outer Fiber OF-001	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	0
+Palio Outer Fiber OF-002	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	0
+Palio Outer Fiber OF-003	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	0
+Palio Outer Fiber OF-004	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	0
+Palio Outer Fiber OF-005	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	0
+Palio R57 Soft-Carbon	8.1	8.8	5.0	5.7	8.3	8.1	3	30
+Palio S4	8.0	8.5	5.0	5.2	10.0	8.5	1	17
+Palio Stealth-1	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	37
+Palio Stealth-2	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	34
+Palio Stealth-3	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	35
+Palio T 3	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	0
+Palio T5	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	50
+Palio T7	8.1	9.0	6.6	7.9	10.0	8.5	5	50
+Palio T92	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	24
+Palio TC-1	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	28
+Palio TC-2	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	25
+Palio TC-7	8.2	7.9	10.0	10.0	(not rated)	8.4	1	21
+Palio TC6	8.8	9.0	7.5	6.7	8.3	9.3	6	25
+Palio TCT	8.9	8.0	8.8	8.1	10.0	8.9	13	49
+Palio TN Dual Carbon	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	29
+Palio TOM	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	0
+Palio TT (Carbon)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	20
+Palio V1	8.8	8.0	7.0	5.2	(not rated)	9.1	1	49
+Palio Wildish Dragon	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	33
+Palio Windless-1	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	0
+Palio Windless-2	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	0
+Palio ZhanLu	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	70
+PimplePark Castro	4.5	9.0	3.0	3.7	10.0	8.0	1	75
+PimplePark Murus	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	47
+PingMaster SL ALL	8.0	9.5	5.0	5.2	10.0	9.5	1	22
+PingMaster SL DEF	7.0	10.0	3.0	2.2	10.0	9.5	1	22
+PingMaster SL OFF Carbon	8.9	9.4	5.0	6.7	10.0	9.3	3	40
+PingSkills Touch	7.6	8.7	5.0	4.5	5.0	8.5	2	65
+Prasidha Ambawa Magnetic OFF+	9.7	9.5	7.0	3.7	10.0	9.0	1	130
+Prasidha Hinoki Cross Carbon Magnetic OFF++	9.2	8.8	7.0	8.8	10.0	9.1	4	250
+Prasidha Kendo	9.4	9.6	7.0	5.7	10.0	9.7	3	287
+Prasidha Kensei	9.0	8.8	7.0	5.2	10.0	9.5	1	200
+Prasidha Samurai 07 ( Glass Fiber)OFF+	9.7	9.3	5.0	6.7	10.0	9.0	1	0
+Prasidha Yokohama Carbon	7.0	7.0	10.0	0.0	0.0	7.0	1	0
+Pro Power X2	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	117
+Re-Impact Rapier 44	9.0	9.0	(not rated)	(not rated)	(not rated)	(not rated)	1	285
+Re-Impact Tachi	7.0	10.0	5.0	5.2	10.0	(not rated)	1	155
+Re-Impact Turbo	6.0	9.0	5.0	5.2	10.0	9.5	1	175
+Reactor CK-2	7.3	7.6	5.0	5.2	(not rated)	6.5	2	30
+Reactor DJ200	7.3	8.8	4.7	5.0	8.3	8.1	7	17
+Reactor DJ600	9.0	8.0	10.0	8.2	10.0	9.0	1	21
+Reactor Hinoki Super Carbon	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	36
+Reactor K-1	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	37
+Red+Black Flow	7.8	9.2	5.0	5.2	(not rated)	8.7	1	47
+Red+Black Kazak Combi	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	210
+Red+Black Sensei	8.9	8.7	5.0	6.7	(not rated)	8.8	1	98
+Ross Leidy Rapscallion	10.0	9.5	3.0	5.2	10.0	10.0	2	145
+Sanwei A1	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	31
+Sanwei A5	8.0	9.0	6.3	7.2	8.3	8.5	3	22
+Sanwei A6	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	25
+Sanwei A9	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	33
+Sanwei BY1091 Even	9.2	8.8	6.0	8.2	7.5	9.0	2	65
+Sanwei C2	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	25
+Sanwei Carbon King T-1091A	9.0	8.7	6.7	6.7	10.0	9.0	3	55
+Sanwei CC	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	15
+Sanwei Dynamo	8.7	9.4	5.0	6.7	10.0	9.3	2	35
+Sanwei F1	9.1	7.8	8.5	6.7	10.0	8.7	2	37
+Sanwei F1 Classic	9.1	8.0	10.0	8.2	0.0	8.0	1	34
+Sanwei F3	9.0	8.5	8.0	7.3	5.0	9.0	3	33
+Sanwei F3 Bulldozer	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	54
+Sanwei F3 PRO	9.4	9.2	6.6	5.7	8.3	9.1	14	50
+Sanwei Feather Carbon	8.7	9.3	5.0	5.2	10.0	9.3	4	52
+Sanwei FEXTRA 7	8.5	9.5	4.4	5.7	8.1	9.6	16	35
+Sanwei H10 1 Ply Hinoki	9.1	8.5	2.5	3.0	5.0	8.9	2	50
+Sanwei H5	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	45
+Sanwei HC Speed Light	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	50
+Sanwei HC-1	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	55
+Sanwei HC-3	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	49
+Sanwei HC-3S	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	70
+Sanwei HC-6S	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	0
+Sanwei HC. 5	8.1	8.5	5.0	5.6	5.0	8.8	4	36
+Sanwei HC. 6	9.3	9.0	7.0	8.2	10.0	9.1	4	38
+Sanwei HC.5S	8.7	8.9	6.0	5.2	7.5	8.9	2	40
+Sanwei King Kong 2	9.0	9.5	5.0	5.2	10.0	10.0	1	30
+Sanwei Kingkong	9.0	9.0	5.0	5.2	10.0	(not rated)	1	40
+Sanwei Kongno	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	40
+Sanwei M-6	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	15
+Sanwei M-8	7.2	8.0	3.7	4.7	4.2	7.9	6	13
+Sanwei New Century	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	16
+Sanwei Pistol	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	1	35
+Sanwei Pistol Carbon	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	40
+Sanwei Pro F3	9.5	7.2	6.7	7.8	5.0	8.3	3	66
+Sanwei Pro V5	9.1	9.2	5.0	6.7	(not rated)	9.6	2	35
+Sanwei R1	9.5	8.0	7.0	8.2	10.0	8.8	2	45
+Sanwei R2	10.0	9.0	7.0	8.2	10.0	9.8	3	65
+Sanwei R3	10.0	8.5	7.0	6.7	10.0	9.5	2	32
+Sanwei Sadius	9.0	8.0	5.0	3.7	10.0	8.5	3	40
+Sanwei T1091	9.0	8.5	6.0	6.7	10.0	8.5	3	42
+Sanwei T1091 AA (Hinoki Carbon)	9.6	9.7	7.0	6.7	10.0	9.5	1	160
+Sanwei T502	8.0	8.7	7.0	5.2	10.0	8.1	3	20
+Sanwei T651	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	20
+Sanwei Two Face	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	48
+Sanwei V13	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	25
+Sanwei V5 Pro	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	45
+Sauer & Troger Black And White	7.8	9.0	7.0	6.7	(not rated)	(not rated)	1	70
+Sauer & Troger Dominate All	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	65
+Sauer & Troger Firestarter	5.0	9.0	4.3	5.7	10.0	9.0	3	56
+Sauer & Troger Kasalla	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	75
+Sauer & Troger Zeus	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	146
+Soulspin Roots Basalt 6	8.2	9.3	5.0	5.8	10.0	9.3	7	200
+Soulspin Roots Control 4	8.6	9.7	6.0	6.0	10.0	9.9	4	138
+Soulspin Roots Medium Speed 2	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	0
+Soulspin Roots Speed Offensive 1	9.0	9.0	7.0	8.2	10.0	9.5	1	0
+Soulspin Roots Spin Offensive 3	8.5	8.3	4.0	5.2	10.0	9.5	3	0
+Soulspin Roots Various Offensive 5	8.2	9.8	5.0	4.7	10.0	9.5	3	165
+SpinLord Carbon Strike	7.0	9.0	7.0	5.2	10.0	9.0	1	50
+SpinLord Classic Carbon	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	0
+SpinLord Combi Carbon	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	50
+SpinLord Defender	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	0
+SpinLord First Strike	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	34
+SpinLord RD1	7.0	10.0	5.0	6.7	10.0	10.0	1	24
+SpinLord RD2	8.0	9.0	5.0	6.7	10.0	9.5	1	24
+SpinLord Ultra Allround	6.3	9.1	5.0	5.2	10.0	8.4	1	32
+SpinLord Ultra Aramid	8.3	9.5	5.0	8.2	(not rated)	(not rated)	1	55
+SpinLord Ultra Balsa	8.5	9.5	5.0	5.2	10.0	9.0	1	52
+SpinLord Ultra Carbon Def	8.0	9.0	7.0	6.7	10.0	(not rated)	1	48
+SpinLord Ultra Power	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	79
+SpinLord Ultra Spin	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	70
+Spintech 9th Wonder KC	8.7	7.5	7.0	5.2	10.0	8.0	1	199
+Spintech Carbo Gold	9.3	7.0	5.0	8.2	10.0	8.3	1	249
+Stag All Round	5.0	9.0	5.0	5.2	5.0	7.0	1	17
+Stag Magnum	8.1	8.8	5.0	6.7	10.0	(not rated)	2	46
+Stag Matchpoint	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	132
+Stag Offensive	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	45
+Stag Peter Karlsson	8.2	8.5	6.0	6.0	10.0	7.6	3	30
+Stag Peter Karlsson Carbon	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	51
+Stag Sensor	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	56
+Stag Sonic Speed	9.5	9.1	5.0	8.2	10.0	9.5	3	33
+Stiga Active	7.8	7.9	5.0	6.7	5.0	7.6	6	29
+Stiga Allround Classic	6.7	9.0	3.2	4.7	9.0	8.7	40	38
+Stiga Allround Classic Carbon	7.5	8.9	5.0	5.2	9.5	9.0	11	47
+Stiga Allround Classic CR	7.4	9.3	5.3	5.7	9.0	9.0	7	47
+Stiga Allround Classic Oversize WRB	6.9	8.8	4.0	3.7	7.5	8.9	2	40
+Stiga Allround Classic WRB	6.7	9.1	3.2	4.3	7.0	9.0	19	43
+Stiga Allround Evolution	7.6	8.5	4.5	5.5	8.3	8.2	13	35
+Stiga Allround NCT	7.5	9.2	4.8	5.0	9.0	9.1	30	52
+Stiga Allround Oversize	6.9	8.8	4.0	3.7	7.5	8.9	2	70
+Stiga Arctic Wood	9.5	8.4	7.0	6.7	10.0	9.1	1	110
+Stiga Azalea Allround	8.7	9.4	3.0	5.2	10.0	9.2	1	75
+Stiga Azalea Offensive	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	80
+Stiga Carbo 7.6	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	250
+Stiga Carbo 7.6 WRB	9.3	8.5	7.6	7.2	10.0	9.3	19	83
+Stiga Carbo Oversize	9.3	7.8	5.5	8.7	10.0	8.8	4	98
+Stiga Carbokev	9.2	6.9	6.3	7.0	5.0	8.0	7	99
+Stiga Carbokev WRB	8.8	5.5	5.0	6.7	5.0	7.5	1	103
+Stiga Carbonado 145	9.4	8.7	6.8	7.0	9.6	9.1	16	175
+Stiga Carbonado 190	9.2	9.4	7.2	6.9	9.7	9.4	19	165
+Stiga Carbonado 245	9.7	8.6	8.1	7.9	8.1	9.1	8	201
+Stiga Carbonado 290	9.3	9.2	7.5	8.1	9.5	9.3	11	200
+Stiga Carbonado 45	8.8	8.8	6.5	6.3	10.0	8.7	5	168
+Stiga Carbonado 90	9.2	9.0	7.0	6.0	10.0	9.4	3	148
+Stiga Carbonix WRB	8.3	8.2	6.0	6.1	5.8	9.0	9	110
+Stiga CC5	9.4	8.9	5.1	6.5	9.2	9.4	8	130
+Stiga CC7	9.7	8.2	9.7	8.4	9.4	9.3	10	139
+Stiga Celero	8.5	9.1	3.0	5.4	9.3	9.1	8	54
+Stiga Clipper	8.5	8.5	5.8	5.6	7.6	9.2	44	70
+Stiga Clipper CC	9.4	8.9	5.3	5.8	10.0	9.6	13	114
+Stiga Clipper CR (WRB)	8.9	8.4	6.2	6.4	9.3	9.0	26	77
+Stiga Clipper CR Non-WRB	9.0	8.4	6.8	7.5	8.6	9.0	8	76
+Stiga Clipper Oversize WRB	9.0	9.0	6.5	7.6	10.0	9.0	4	35
+Stiga Clipper Rosewood CRW ( Limited Edition )	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	140
+Stiga Clipper WRB	8.8	8.5	6.0	6.1	8.5	9.0	14	65
+Stiga Corona	5.7	8.0	3.0	5.2	(not rated)	8.0	1	25
+Stiga Defensive Classic	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	75
+Stiga Defensive NCT	5.5	9.4	4.0	4.7	8.6	9.4	12	55
+Stiga Defensive Pro	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	85
+Stiga Ebenholz NCT V (5)	9.1	9.0	6.2	6.7	9.1	9.3	30	137
+Stiga Ebenholz NCT VII (7)	9.5	8.5	8.9	9.2	8.7	9.3	24	135
+Stiga Emerald VPS V	9.4	9.2	6.7	6.0	9.0	9.4	10	130
+Stiga Energy WRB	7.6	8.2	3.4	5.0	7.3	8.7	13	39
+Stiga Eternity VPS V	9.1	9.2	5.1	5.4	9.4	9.4	9	80
+Stiga Graphite Wood	8.9	7.3	7.0	8.0	10.0	9.3	7	0
+Stiga Hans Asler	5.5	9.3	3.0	3.7	7.5	8.8	2	0
+Stiga Hybrid Wood NCT	9.5	9.0	7.6	7.7	8.9	9.6	63	108
+Stiga HyperTech CR 35/45	7.1	8.0	4.0	6.0	10.0	8.8	6	62
+Stiga Infinity VPS V Diamond Touch	8.7	8.9	5.3	6.3	9.1	9.3	59	95
+Stiga Intensity NCT	8.8	8.7	6.2	6.5	9.3	9.1	18	109
+Stiga Intensity NCT Carbon	9.5	9.1	7.0	7.0	9.2	9.4	14	120
+Stiga J.M. Saive Control	7.0	9.0	5.0	5.2	10.0	9.0	2	25
+Stiga Kevtech	9.1	6.7	5.3	7.2	8.0	8.4	6	69
+Stiga KevTech WRB	8.4	7.8	7.0	7.2	8.3	8.3	3	72
+Stiga Kjell Johannson	7.3	8.3	4.8	5.7	7.5	9.0	6	0
+Stiga Maplewood NCT V	9.1	9.0	4.7	5.7	10.0	9.3	13	130
+Stiga Maplewood NCT VII	9.0	8.0	6.0	6.0	7.5	8.6	3	135
+Stiga Nostalgic Allround	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	95
+Stiga Nostalgic Offensive	9.0	9.0	3.0	5.2	(not rated)	9.6	1	110
+Stiga Nostalgic VII	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	115
+Stiga Offensive Classic (OC)	7.6	8.3	3.6	5.2	7.6	8.6	33	46
+Stiga Offensive Classic Carbon	8.5	8.8	5.1	6.5	9.6	8.9	15	48
+Stiga Offensive Classic WRB	8.1	8.3	5.1	6.1	9.3	8.8	20	60
+Stiga Offensive CR	8.1	8.1	3.1	6.3	6.0	8.9	8	55
+Stiga Offensive CR WRB	8.5	8.9	4.3	6.7	7.1	9.1	8	55
+Stiga Offensive Oversize WRB	8.4	7.6	6.5	7.1	10.0	9.3	4	43
+Stiga Offensive Wood NCT	8.1	9.0	4.8	5.1	8.7	9.0	21	55
+Stiga Optimum Carbo	9.2	7.1	7.1	7.5	7.3	8.4	15	110
+Stiga Optimum Plus	8.2	7.4	4.7	6.5	8.8	8.0	9	55
+Stiga Optimum Seven	9.2	6.7	6.4	7.5	6.9	7.6	9	78
+Stiga Optimum Sync	8.2	8.3	5.0	6.5	8.3	8.8	8	75
+Stiga RevTech	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	40
+Stiga Rosewood NCT V	8.9	8.7	5.9	6.8	10.0	9.2	45	115
+Stiga Rosewood NCT VII	9.1	8.6	6.0	7.0	10.0	9.4	32	140
+Stiga Rosewood XO	9.3	8.6	5.2	6.8	10.0	9.2	20	130
+Stiga S-3000	8.3	7.5	5.7	6.2	7.1	7.6	7	23
+Stiga S-4000 WRB	8.7	6.4	7.0	6.7	5.0	7.1	1	38
+Stiga S-5000 WRB	7.8	6.5	7.0	7.5	7.5	7.8	2	24
+Stiga Sense 7.6	9.5	8.6	7.8	7.5	7.5	9.2	6	112
+Stiga Stellan Bengtsson	7.9	9.0	5.0	4.5	10.0	8.9	2	115
+Stiga Super Carbon	9.0	8.5	5.0	6.0	10.0	9.0	2	97
+Stiga Titanium	9.1	5.7	9.3	7.9	10.0	9.3	9	113
+Stiga Titanium 5.4	8.7	6.4	6.0	7.0	10.0	9.2	9	74
+Stiga Titanium 5.4 WRB	9.3	8.8	5.3	8.2	10.0	9.3	4	78
+Stiga Triumph WRB	7.5	9.0	5.7	5.2	6.7	7.9	3	50
+Stiga Tube Allround WRB	7.5	8.8	5.5	6.0	8.3	8.0	5	38
+Stiga Tube Aluminium WRB	8.8	7.3	5.7	6.8	9.2	8.2	7	52
+Stiga Tube Carbo WRB	9.3	8.3	6.7	6.7	8.6	9.2	22	53
+Stiga Tube Defensive WRB	6.3	8.7	2.6	3.1	10.0	8.5	9	45
+Stiga Tube Light WRB	7.8	8.2	4.0	4.1	8.8	9.2	4	59
+Stiga Tube Offensive WRB	8.6	8.6	6.4	7.3	8.3	9.2	7	46
+Stiga Ulf Tickan Carlsson All 2000	8.1	9.3	5.0	4.2	8.3	8.4	3	220
+Stiga V1 Carbon	9.0	6.0	3.7	6.2	8.3	9.0	3	56
+Stiga Vapor	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	35
+STW Louis 13 Special	9.0	9.0	5.0	3.7	10.0	9.0	1	265
+STW ST-75C.5	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	55
+STW ST-85S	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	55
+Sunflex Carbon	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	30
+Sunflex Castel Fire OFF	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	50
+Sunflex Castel Light 2 ALL	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	55
+Sunflex Classic	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	16
+Sunflex Fernandes Electra OFF	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	80
+Sunflex Intercept Carbon	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	30
+Sunflex Legay Reflex ALL+	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	40
+Sunflex Martinez Explorer 2 OFF-	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	65
+Sunflex Martinez Explorer II OFF-	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	55
+Sunflex Martinez Light Premium ALL+	7.5	7.0	5.0	5.2	10.0	6.5	1	50
+Sunflex Martinez Light Premium ALL-	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	45
+Sunflex Martinez Light Premium OFF-	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	50
+Sunflex Martinez Tiger OFF	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	50
+Sunflex Project X Titanium	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	40
+Sunflex Sho All+	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	30
+Sunflex Sho Soft Carbon Off	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	40
+Sunflex Trophy	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	18
+Sunflex Zen Allround	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	60
+Sunflex Zen Allround Plus	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	70
+Sunflex Zen Off 5	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	50
+Sunflex Zen Off 7	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	90
+Sunflex Zen Soft Carbon Off-	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	100
+Sword 309	7.1	9.7	4.2	4.0	9.0	9.3	5	30
+Sword Apollo I (1)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	25
+Sword Apollo II (2)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	25
+Sword Apollo III (3)	8.2	8.2	5.0	5.2	10.0	8.4	1	27
+Sword Black	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	35
+Sword Blue Feather	9.0	9.1	5.4	5.5	10.0	9.2	5	70
+Sword Blue Glamour	9.3	8.5	7.0	6.7	(not rated)	(not rated)	1	55
+Sword Blue Sword	9.0	8.0	7.0	8.2	10.0	8.0	1	19
+Sword Blue Yue	8.8	9.3	6.0	5.2	10.0	10.0	2	65
+Sword Concept-5	7.0	8.0	5.0	5.2	(not rated)	9.0	1	25
+Sword Dual Property Monster King	7.5	9.5	7.0	8.2	10.0	9.9	2	69
+Sword Final Strike	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	70
+Sword Future 7000	9.1	9.8	5.0	5.2	(not rated)	9.5	1	30
+Sword Future Sword 600	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	25
+Sword Gold Feather	8.9	9.4	6.0	6.0	10.0	9.4	2	50
+Sword Great Sword	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	60
+Sword Hacker III (3)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	14
+Sword King Sword 2001	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	50
+Sword Red	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	27
+Sword RG UC UA 2002	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	55
+Sword RG-SER90	9.5	7.5	(not rated)	6.7	10.0	9.0	2	60
+Sword RG-UC-C	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	60
+Sword Subdue	10.0	10.0	5.0	5.2	10.0	10.0	1	18
+Sword T - Hinoki	9.0	8.7	8.0	8.2	8.3	9.0	3	60
+Sword T.Hui Sword	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	35
+Sword V-6 Carbon	7.0	9.0	3.0	5.2	(not rated)	(not rated)	1	20
+Sword V-8 Carbon	7.7	9.0	4.3	4.7	5.0	9.0	3	20
+Sword WST-50SEC	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	35
+Sword Yokohama Yue	7.0	8.3	4.0	3.7	5.0	9.8	3	50
+Tibhar Actium	6.0	9.0	3.0	3.7	10.0	9.0	1	150
+Tibhar Allround Classic	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	45
+Tibhar Apolonia	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	0
+Tibhar Balsa Allround 50	7.0	5.0	(not rated)	(not rated)	(not rated)	6.0	1	45
+Tibhar Balsa Carbon	9.0	7.7	7.5	6.1	10.0	9.2	3	70
+Tibhar Balsa Def 25	5.6	9.6	0.0	2.2	10.0	8.8	1	45
+Tibhar Balsa Fibre OFF 60	8.6	9.8	7.0	4.5	10.0	9.7	2	45
+Tibhar Balsa Fibretec 75	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	45
+Tibhar Black Carbon	9.5	7.3	6.3	7.2	9.3	8.4	8	77
+Tibhar Black Gold	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	45
+Tibhar Black Silver	6.1	7.7	5.8	3.2	7.5	8.7	4	49
+Tibhar Carbon Shot	10.0	7.3	3.5	7.5	2.5	7.6	2	40
+Tibhar Carneros ALL+	7.0	7.0	7.0	6.7	5.0	7.8	1	30
+Tibhar CCA 7	9.0	8.9	6.3	7.2	10.0	9.3	3	86
+Tibhar CCA Unlimited	8.9	8.7	8.0	5.7	10.0	8.9	3	170
+Tibhar Cedric Nuytinck	9.1	9.2	6.0	3.7	(not rated)	9.9	2	240
+Tibhar Champ	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	30
+Tibhar CO-S 3 Defensive	4.9	8.9	3.0	3.3	8.8	9.0	4	23
+Tibhar comBAT	9.2	8.0	8.5	6.0	10.0	(not rated)	2	50
+Tibhar COS 3	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	22
+Tibhar Crazy Killer	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	40
+Tibhar Curious	8.0	8.4	5.0	5.2	5.0	7.9	1	58
+Tibhar Defense Plus	5.0	9.5	5.0	2.2	(not rated)	9.0	1	45
+Tibhar Drinkhall Allround Classic	6.5	9.5	3.3	3.2	10.0	8.9	3	50
+Tibhar Drinkhall Defensive Classic	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	48
+Tibhar Drinkhall Offensive Classic	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	60
+Tibhar Drinkhall Power Spin Carbon	9.5	9.0	3.0	5.2	8.3	9.5	3	135
+Tibhar Dynamic 7 Contact	5.5	5.5	5.0	3.7	5.0	9.5	1	35
+Tibhar Furious	8.0	8.8	5.0	6.0	10.0	8.9	2	58
+Tibhar H-1-9	9.5	7.5	6.0	7.2	6.7	8.3	4	150
+Tibhar H-3-9	8.0	6.5	5.5	5.9	7.5	8.9	9	149
+Tibhar Ikarus ALX	8.4	8.9	4.7	3.4	10.0	9.4	7	70
+Tibhar Illusion Killer	9.1	8.8	5.3	6.1	8.8	9.1	9	100
+Tibhar Inferno	8.4	8.2	6.3	6.1	10.0	8.4	6	38
+Tibhar IV-L	7.5	9.0	6.0	2.2	10.0	9.0	2	36
+Tibhar IV-L Balsa	7.5	9.1	4.0	4.5	8.3	8.8	4	55
+Tibhar IV-L Light Contact	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	30
+Tibhar IV-L SGS	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	37
+Tibhar IV-S	8.5	7.5	7.0	7.5	(not rated)	(not rated)	2	40
+Tibhar IV-S SGS	9.0	9.3	5.0	6.7	10.0	9.6	1	37
+Tibhar IV-T	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	0
+Tibhar Karas OFF	9.3	8.4	5.3	6.1	10.0	9.5	9	50
+Tibhar KS Kinetic Speed	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	250
+Tibhar Lebesson	8.3	8.8	3.3	4.9	10.0	9.0	10	49
+Tibhar Marcos Freitas	9.8	7.8	7.0	7.8	10.0	9.4	3	129
+Tibhar Match	6.8	8.1	5.6	5.0	6.7	7.4	7	35
+Tibhar Moonlight Killer	8.4	9.5	5.0	6.7	10.0	9.2	1	40
+Tibhar Nimbus Allround	7.6	8.6	4.0	6.0	10.0	8.8	2	46
+Tibhar Nimbus Offensive	8.7	7.3	6.0	5.2	10.0	8.0	3	46
+Tibhar Nimbus VIP	9.1	8.0	7.0	6.9	9.3	8.7	8	57
+Tibhar Patrick Chila	7.4	7.8	4.0	3.4	7.9	7.6	8	36
+Tibhar Phantom X	9.5	8.4	7.7	8.3	10.0	9.0	11	80
+Tibhar Power 40	8.3	7.9	6.0	6.0	10.0	8.7	2	45
+Tibhar Rapid Carbon	8.8	8.1	6.0	7.8	10.0	9.0	4	73
+Tibhar Rapid Carbon Light	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	53
+Tibhar Red Cypress	8.7	9.4	6.2	6.1	9.0	9.6	10	63
+Tibhar Ronin 6	8.8	8.7	5.0	6.7	(not rated)	8.0	1	55
+Tibhar Ronin CB	9.6	9.1	(not rated)	(not rated)	10.0	9.7	1	85
+Tibhar Samsonov Alpha	7.8	8.5	5.3	5.4	9.1	8.7	24	38
+Tibhar Samsonov Alpha SGS	7.9	8.4	3.4	4.6	10.0	8.6	6	55
+Tibhar Samsonov Carbon	9.0	8.0	7.6	6.3	7.9	8.5	13	50
+Tibhar Samsonov Carbon SGS	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	90
+Tibhar Samsonov Force Pro	9.0	8.8	5.7	5.9	9.5	9.4	13	60
+Tibhar Samsonov Force Pro Black Edition	9.3	9.4	3.9	4.5	9.0	9.5	26	65
+Tibhar Samsonov Premium Contact	7.5	8.4	5.0	4.7	9.0	8.8	6	55
+Tibhar Samsonov Pure Wood	7.5	9.0	7.0	5.2	10.0	8.9	1	50
+Tibhar Samsonov Start	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	25
+Tibhar Samsonov Techno Power Contact	6.9	8.6	5.0	5.2	2.5	9.7	4	50
+Tibhar Sensitec Icon	7.9	9.3	4.5	5.2	10.0	8.5	4	56
+Tibhar Sensitec Sigma	9.0	8.5	6.4	5.0	8.8	9.1	7	71
+Tibhar Sensitec Xeon	7.2	8.8	5.0	5.5	6.7	8.4	6	56
+Tibhar Smash	7.0	8.5	5.0	6.7	5.0	8.0	1	20
+Tibhar Stratus Power Defense	6.8	8.7	5.0	5.7	10.0	9.1	8	40
+Tibhar Stratus Power Wood	8.9	9.3	5.0	5.5	9.0	9.5	87	39
+Tibhar Stratus Samsonov Carbon	9.0	8.9	4.7	5.3	8.9	9.4	19	68
+Tibhar Texo ALL	7.5	9.5	4.0	4.5	7.5	9.0	2	46
+Tibhar Texo C7	9.1	8.4	5.4	7.0	8.0	8.6	5	105
+Tibhar Texo OFF	7.6	8.6	3.5	4.1	6.3	8.5	4	75
+Tibhar Tibhar Champ	7.7	8.2	5.0	5.2	10.0	7.9	1	39
+Tibhar Triple Carbon	9.1	7.8	8.1	7.3	6.4	9.0	8	56
+Tibhar VS Unlimited	9.8	9.6	7.0	8.2	10.0	9.7	1	170
+Tibhar White Sword	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	100
+TSP Altero	9.1	8.7	5.3	6.3	9.3	9.2	7	90
+TSP Arsnova	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	35
+TSP Astron Blue	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	57
+TSP Astron Red	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	59
+TSP Award Allround	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	47
+TSP Award Defensive	7.3	9.7	5.0	4.2	10.0	9.5	3	55
+TSP Award Kids OFF	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	31
+TSP Award Offensive	8.4	9.0	3.2	4.8	9.5	9.0	12	45
+TSP Balsa 2.5 DEF Fitter	4.0	10.0	0.0	2.2	5.0	9.0	1	65
+TSP Balsa 2.5 Defence	7.0	10.0	5.0	5.2	10.0	9.5	1	60
+TSP Balsa 3.5 DEF+	5.0	9.0	3.0	3.7	10.0	8.0	1	65
+TSP Balsa 4.5 ALL	7.2	8.3	6.3	3.7	10.0	7.5	3	65
+TSP Balsa 4.5 ALL Fitter	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	65
+TSP Balsa 5.5 ALL+	7.9	8.3	5.3	5.6	5.8	8.2	7	65
+TSP Balsa 5.5 Fitter	7.5	7.9	5.0	5.2	10.0	7.7	2	55
+TSP Balsa 6.5 OFF	8.9	9.4	5.0	4.6	10.0	9.3	5	55
+TSP Balsa 6.5 OFF Fitter	8.6	8.8	5.0	6.7	10.0	9.5	1	50
+TSP Balsa 8.5 Top Speed	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	65
+TSP Balsa Plus 6.5	8.7	8.5	7.3	4.8	10.0	9.4	4	95
+TSP Balsa Plus 8.5 SR	8.5	7.0	3.0	6.7	10.0	8.0	1	85
+TSP Balsa Plus Offensive 85	9.3	8.2	4.5	3.9	8.3	8.8	5	95
+TSP Barricio	8.7	9.0	5.0	4.5	10.0	8.9	3	68
+TSP Besty	8.5	8.8	5.0	5.2	(not rated)	8.0	1	100
+TSP Besty Fl	9.8	8.6	10.0	8.2	10.0	(not rated)	1	170
+TSP Birmingham 77	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	45
+TSP Black Balsa 3.0	5.5	8.5	3.5	5.2	(not rated)	7.0	2	56
+TSP Black Balsa 4.0	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	65
+TSP Black Balsa 5.0	7.0	9.0	3.0	3.7	10.0	9.3	2	65
+TSP Black Balsa 6.0	6.0	7.0	5.0	5.2	5.0	6.0	1	60
+TSP Black Balsa 7.0	9.1	9.3	6.5	6.6	9.4	9.5	12	42
+TSP Blazze ALL+	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	55
+TSP Blazze OFF-	9.0	9.0	5.0	6.7	10.0	9.0	1	55
+TSP Blazze Soft Touch OFF	8.8	9.1	5.0	6.7	10.0	9.9	1	50
+TSP Blazze Soft Touch OFF+	9.7	7.8	10.0	10.0	10.0	9.3	1	70
+TSP Blockman	6.0	9.0	5.0	2.2	10.0	9.0	1	75
+TSP Break-11	9.5	8.8	7.5	7.6	10.0	9.3	2	120
+TSP Break-9	8.8	10.0	7.0	3.7	(not rated)	10.0	1	150
+TSP Byelun	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	55
+TSP Campione	9.0	8.6	7.0	6.0	10.0	9.3	2	100
+TSP CG-40	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	85
+TSP CH-5	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	47
+TSP Choose	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	45
+TSP Defense Classic	8.0	7.0	(not rated)	(not rated)	(not rated)	(not rated)	1	45
+TSP Defensive Reflex System	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	69
+TSP Dynam	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	100
+TSP Euro	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	40
+TSP Euro Feeling	7.8	9.4	3.0	5.2	10.0	9.0	1	0
+TSP Euro Feeling Off-	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	42
+TSP Euro Power OFF	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	63
+TSP Fasty	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	45
+TSP Fusion ALL+	8.5	9.5	(not rated)	5.2	(not rated)	9.5	1	65
+TSP Fusion OFF	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	70
+TSP Gaia	9.3	9.6	1.7	2.3	10.0	9.7	7	48
+TSP Galleon	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	45
+TSP Higlory	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	40
+TSP Hino-Carbon Power	9.1	8.4	6.1	6.7	10.0	9.0	15	100
+TSP Hino-Carbon S	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	121
+TSP Hino-Carbon Speed	8.8	8.5	5.0	5.2	(not rated)	(not rated)	1	100
+TSP Hino-Carbon SR	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	121
+TSP Hunter	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	100
+TSP Japiel	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	35
+TSP Kanjo Feeling ALL+	6.5	9.0	3.0	3.7	(not rated)	8.0	1	0
+TSP Katai Power	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	85
+TSP Kite S	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	36
+TSP Kite SR	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	47
+TSP Kotoluca	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	38
+TSP Kotony	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	45
+TSP Lightness	5.5	8.5	5.0	2.2	(not rated)	7.5	1	40
+TSP Linban	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	47
+TSP New Spin	9.5	8.5	7.0	6.7	10.0	9.0	1	60
+TSP Phoenix Fire OFF	9.6	8.0	7.0	6.7	5.0	8.0	1	75
+TSP PURE HINOKI	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	1	90
+TSP Reflex 50 Award ALL	4.0	10.0	0.0	0.0	0.0	(not rated)	1	35
+TSP Reflex 50 Award ALL Light	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	22
+TSP Reflex 50 Award OFF	8.3	9.1	5.0	5.8	10.0	9.6	9	32
+TSP Reflex 50 Award OFF Light	8.5	8.0	5.0	6.7	5.0	8.6	2	24
+TSP Reflex 50 Yamato-A	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	85
+TSP Reflex Allround	7.0	8.0	3.0	6.7	10.0	8.0	1	47
+TSP Reflex Defensive	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	50
+TSP Reflex Offensive	8.5	9.6	7.0	5.2	10.0	9.8	1	59
+TSP RF-H	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	78
+TSP RF-HC	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	85
+TSP RF-Spin	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	68
+TSP Sleek-1	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	40
+TSP SP-39	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	39
+TSP SP-43	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	43
+TSP SP-55	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	55
+TSP Spin Ace Carbon	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	70
+TSP Standard	6.0	9.0	5.0	6.7	10.0	8.0	1	30
+TSP Super Defence	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	68
+TSP Superblade Neo	9.3	8.8	7.0	6.7	10.0	9.4	2	80
+TSP Swat	8.2	8.4	6.3	6.2	10.0	8.5	3	65
+TSP Swat 5PW	6.0	10.0	3.0	5.2	10.0	9.0	1	45
+TSP Swat Carbon	8.0	10.0	6.0	5.2	10.0	9.5	2	62
+TSP Swat Power	9.3	9.6	6.0	5.2	10.0	9.7	2	90
+TSP Swat Speed	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	90
+TSP Texas	8.0	8.0	5.0	5.2	10.0	9.0	1	85
+TSP Thriller Soft Touch ALL	7.5	9.5	5.0	4.5	10.0	9.0	2	65
+TSP Thriller Soft Touch OFF	9.0	8.9	6.6	6.7	10.0	9.3	5	65
+TSP Thriller Soft Touch OFF+	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	75
+TSP Thriller Soft Touch OFF-	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	65
+TSP Toccata	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	45
+TSP Trinity Carbon	9.1	9.4	6.3	5.2	10.0	9.5	6	75
+TSP Trusty	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	50
+TSP TS-45	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	45
+TSP TS-7	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	58
+TSP Versal	7.5	8.0	5.0	6.0	10.0	9.0	2	50
+TSP Victas Koji Matsushita	6.5	9.1	3.6	3.9	10.0	9.2	9	75
+TSP X Series Classic Allround	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	65
+TSP X Series Defensive Combi	5.4	9.7	3.0	2.1	9.0	9.5	6	55
+TSP X Series Offensive	7.9	9.3	5.0	3.7	5.0	9.1	1	65
+TSP X Series Offensive Carbon	8.8	9.0	5.0	6.7	10.0	(not rated)	1	75
+TSP Yanagi Alpha	5.6	10.0	7.0	5.2	10.0	9.2	1	60
+TSP Yanagi Shot	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	80
+TTMaster Evolutive Defense	6.0	8.8	5.0	5.2	10.0	10.0	2	0
+TTPro Spinny ALL	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	65
+TTPro Spinny Carbon	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	90
+Tulpe 420	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	20
+Tulpe 7007	7.9	9.0	6.0	5.2	8.3	8.1	5	20
+Tulpe 701	8.0	8.3	7.0	7.2	5.0	8.0	3	20
+Tulpe T-7010	9.0	9.0	10.0	2.2	10.0	9.4	1	68
+Tulpe T-702	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	16
+Tulpe T-704	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	24
+Tulpe T7007	9.9	10.0	5.0	6.7	10.0	10.0	2	28
+Tulpe T7008	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	38
+Tuttle Psychic	9.0	8.8	5.0	5.2	(not rated)	9.0	1	0
+Uniker KOOL Crystal Carbon	8.0	8.0	3.0	6.7	10.0	(not rated)	2	59
+Victas Dynawood	9.0	9.5	5.0	6.7	10.0	9.0	1	135
+Victas Dynawood Power	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	135
+Victas Fire Fall AC	9.0	7.9	8.0	6.2	8.3	8.8	3	101
+Victas Fire Fall FC	8.5	9.4	5.0	5.5	8.9	9.6	18	101
+Victas Fire Fall LC	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	101
+Victas Fire Fall SC	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	101
+Victas Fire Fall VC	9.5	9.5	7.8	8.3	10.0	9.6	5	140
+Victas Koji Matsushita	6.9	9.4	3.3	3.2	10.0	9.7	3	95
+Victas Koji Matsushita Defensive	5.3	9.3	5.7	4.2	10.0	9.3	3	107
+Victas Koji Matsushita Offensive	8.2	9.2	6.2	6.7	10.0	9.5	7	107
+Victas Koji Matsushita Special	7.8	9.4	5.0	5.2	5.0	9.2	1	110
+Victas Koki Niwa	9.2	9.0	7.8	6.7	10.0	9.2	4	180
+Victas Quartet AFC	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	140
+Victas Quartet Allround	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	101
+Victas Quartet Hold	8.8	9.0	5.0	5.2	10.0	9.2	1	101
+Victas Quartet Hold II	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	101
+Victas Quartet II Speed	9.0	8.8	7.0	8.2	10.0	9.8	1	101
+Victas Quartet SFC	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	110
+Victas Quartet Speed	10.0	8.0	7.0	8.2	10.0	10.0	1	101
+Victas Quartet VFC	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	150
+Victas Yuto Muramatsu	8.7	9.1	7.0	8.2	10.0	9.9	1	120
+Worz Bazooka	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	0
+Worz Klondike Bar	8.5	7.5	7.0	5.2	10.0	9.1	2	55
+Worz Tri-Carbon	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	0
+Xi Enting 280 (X280)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	18
+Xi Enting APaQi X969	9.6	9.0	9.0	8.2	10.0	9.5	3	37
+Xi Enting Dolphin 606 (X606)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	22
+Xi Enting Flying Dragon X360	9.0	8.0	7.0	8.2	(not rated)	8.0	1	20
+Xi Enting Phoenix X580	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	34
+Xi Enting Shark 686	9.3	8.9	7.3	7.8	8.8	8.9	15	30
+Xi Enting Tiger 560	8.7	8.6	5.5	7.8	9.2	8.7	8	25
+Xi Enting Triceratops X460	9.0	8.0	7.0	8.2	(not rated)	(not rated)	1	25
+Xi Enting Whale X636	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	0
+Xi Enting ZL603	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	33
+Xi Enting ZL609	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	25
+Xi Up Decimate	9.0	8.0	5.0	5.2	5.0	9.0	1	35
+Xi Up Power Combi Light	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	55
+Xi Up Touch Combi Light	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	55
+Xiom Acro	8.4	8.4	4.7	4.2	10.0	8.6	6	65
+Xiom Aigis	6.7	9.6	1.6	4.0	8.6	9.0	14	65
+Xiom Allround S	8.1	9.4	3.8	5.9	8.3	9.4	5	50
+Xiom Amadeus	8.4	8.7	8.5	6.5	10.0	9.1	9	123
+Xiom Aria	8.7	8.5	5.4	5.8	10.0	8.9	13	65
+Xiom Aria Lite	8.2	8.5	6.3	5.5	8.3	9.1	7	55
+Xiom Athena Hinoki Platinum RSM Special	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	1000
+Xiom Athena Platinum CP	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	900
+Xiom Athena RSM Gold	9.6	8.1	6.0	7.5	10.0	9.1	3	750
+Xiom Athena RSM Platinum	9.1	8.2	8.0	6.3	7.9	9.1	7	500
+Xiom Athena RSM Silver	9.0	7.2	5.0	5.2	10.0	9.1	1	300
+Xiom Axelo	9.4	8.3	7.1	7.1	9.4	9.2	20	95
+Xiom Control ALL+	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	110
+Xiom Control OFF	9.0	8.0	7.0	8.2	10.0	9.0	1	108
+Xiom Control OFF-	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	108
+Xiom Cyx Euro	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	0
+Xiom Cyx Pro	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	0
+Xiom Cyx Tour	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	0
+Xiom Diva	8.3	9.4	4.7	5.3	9.2	9.2	22	38
+Xiom Extreme S	9.2	8.9	6.9	6.4	10.0	9.4	18	50
+Xiom Feel AX	8.5	9.5	7.0	8.2	10.0	9.5	1	85
+Xiom Feel HX	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	105
+Xiom Feel HX PRO	9.2	9.4	6.0	3.7	10.0	9.0	2	120
+Xiom Feel S7	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	70
+Xiom Feel SX	8.5	8.5	5.0	5.2	5.0	8.8	1	100
+Xiom Feel ZX1	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	115
+Xiom Feel ZX2	9.8	9.7	5.7	6.2	10.0	9.5	4	130
+Xiom Feel ZX3	9.0	9.5	7.0	5.2	10.0	9.5	1	220
+Xiom Fuga	8.3	8.0	4.2	5.6	7.5	8.8	22	62
+Xiom Giga Gold	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	180
+Xiom Giga Lee Chul Seung Gold	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	120
+Xiom Giga Lee Chul Seung Platinum	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	170
+Xiom Giga Platinum	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	225
+Xiom Guarneri	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	0
+Xiom Hayabusa Z	8.5	9.0	3.0	5.2	10.0	9.3	1	130
+Xiom Hayabusa Z+	9.5	9.3	5.8	5.8	10.0	9.5	5	150
+Xiom Hayabusa Zi	8.6	8.5	6.2	7.0	10.0	8.4	7	140
+Xiom Hayabusa ZX	8.9	8.9	4.3	5.0	9.2	9.1	6	180
+Xiom Hayabusa ZXi	9.6	8.7	7.0	7.2	9.4	9.3	30	180
+Xiom Hibi O	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	120
+Xiom Hinoki S7	8.7	9.0	5.0	8.2	(not rated)	8.5	1	100
+Xiom ICE CREAM AZX	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	175
+Xiom ICE CREAM AZXi	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	215
+Xiom Ignito	9.1	9.1	5.8	6.0	9.5	9.4	14	71
+Xiom Jazz	7.1	8.5	3.5	3.3	8.3	8.8	6	75
+Xiom KATANA Platinum CP	9.0	7.0	10.0	2.2	5.0	9.0	1	800
+Xiom KATANA Platinum Special CP	9.1	9.5	7.0	3.0	10.0	9.3	2	950
+Xiom Magellan	7.5	9.0	2.5	3.6	10.0	8.5	2	125
+Xiom Maximus OFF	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	75
+Xiom Maximus OFF-	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	76
+Xiom Michelangelo	6.5	8.3	7.3	5.1	8.3	7.8	3	125
+Xiom Musa Asia	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	50
+Xiom Musa Euro	6.0	9.5	3.0	6.7	10.0	8.5	1	50
+Xiom Offensive S	8.2	9.1	4.6	5.5	9.7	9.4	31	37
+Xiom Omega Euro	8.5	9.0	7.0	5.2	(not rated)	9.5	1	110
+Xiom Omega Pro	9.2	9.5	4.3	6.7	10.0	9.6	3	117
+Xiom Omega Tour	9.0	9.4	7.0	6.0	10.0	9.5	2	130
+Xiom Ovid ALL	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	76
+Xiom Ovid ALL+	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	66
+Xiom Power	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	90
+Xiom Power Hinoki	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	85
+Xiom Powerlite	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	0
+Xiom Powerlite Plus	9.0	7.0	10.0	2.2	10.0	9.0	1	100
+Xiom Requiem	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	209
+Xiom RSM Athena Gold CP	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	900
+Xiom Solo	8.3	9.3	4.6	5.0	8.6	9.2	7	60
+Xiom Speed	9.2	8.9	5.0	3.7	10.0	9.4	3	178
+Xiom Stradivarius	8.9	8.6	6.4	6.9	8.8	9.0	47	105
+Xiom Strato	9.5	8.8	7.0	6.7	9.0	9.5	29	73
+Xiom V1	8.7	9.1	5.9	7.7	10.0	9.3	9	85
+Xiom V1 Quad	9.1	8.6	7.0	8.1	8.8	9.3	13	105
+Xiom Vega Euro	8.6	9.3	6.1	5.9	9.6	9.5	16	140
+Xiom Vega Pro	8.7	9.3	6.1	5.4	9.4	9.4	19	180
+Xiom Vega Tour	9.5	9.6	6.7	7.2	10.0	9.5	26	180
+Xiom Xiom Athena Hinoki Platinum RSM	10.0	10.0	10.0	10.0	10.0	10.0	1	1000
+Xiom Zeta Offensive	9.0	7.5	(not rated)	(not rated)	5.0	6.0	2	45
+Xiom Zeta Offensive Plus	8.8	7.3	6.0	8.2	10.0	8.4	3	120
+Xiom Zetro Quad	9.0	9.0	5.8	5.1	9.5	9.4	68	95
+Xiom Zetro XR	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	0
+XuShaoFa 021	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	33
+XuShaoFa Wooden F-4	7.1	6.2	5.0	5.2	5.0	8.0	1	30
+XuShaoFa Wooden F-6	8.1	9.0	7.0	6.7	5.0	8.6	1	23
+XuShaoFa Wooden F-9	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	20
+XVT ALC WHEEL	9.0	8.6	7.7	6.2	5.0	8.8	3	27
+XVT Allround Classic	8.2	9.1	4.5	4.1	8.8	8.8	4	15
+XVT Archer B Carbon	8.5	7.8	7.0	5.2	5.0	8.2	2	8
+XVT Black Knight 7	9.2	9.2	6.1	5.8	10.0	9.2	10	20
+XVT Cannon	9.1	9.0	7.0	6.0	10.0	9.2	2	30
+XVT Cannon Walnut	8.6	8.9	7.5	6.7	10.0	(not rated)	2	35
+XVT Carbo V	8.8	8.8	7.0	6.7	5.0	8.5	1	15
+XVT Hinoki ALC Carbon	8.5	9.0	7.0	6.7	10.0	(not rated)	1	30
+XVT Hinoki Balsa Carbon	8.7	8.5	7.0	7.5	10.0	9.1	5	22
+XVT Hinoki ZL Carbon	9.3	9.3	6.9	6.1	8.3	9.3	8	37
+XVT Hybrid	8.7	8.0	(not rated)	(not rated)	(not rated)	8.8	1	22
+XVT Nano Carbo 40+	9.3	8.8	8.5	6.7	10.0	9.0	2	27
+XVT Rose Wood Nano 7	9.1	8.7	5.7	6.2	8.0	9.2	6	50
+XVT Spring ZL	9.0	8.0	7.0	3.7	5.0	(not rated)	1	35
+XVT ZL Koto	9.7	9.8	6.3	6.7	8.3	9.8	4	29
+XVT ZLC Carbon	9.2	9.0	5.0	6.0	10.0	8.1	2	30
+Yasaka Advance 3D	9.0	9.2	4.3	5.0	10.0	9.4	8	50
+Yasaka Allround 40	8.0	8.0	(not rated)	(not rated)	10.0	9.0	2	35
+Yasaka Allround Plus	7.9	8.9	3.0	3.7	10.0	8.9	4	48
+Yasaka Alnade	9.4	9.3	6.0	6.7	10.0	9.7	3	100
+Yasaka Balsa	7.5	7.7	6.0	6.2	9.3	7.8	10	38
+Yasaka Balsa Plus	8.5	8.1	4.6	5.2	7.0	7.5	6	40
+Yasaka Battle Balsa	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	42
+Yasaka Carbon 3D	8.0	8.6	5.4	6.7	9.0	8.4	5	75
+Yasaka Defender	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	33
+Yasaka Dynamix 17	9.5	9.0	8.6	8.7	9.3	9.5	48	73
+Yasaka Eagle	7.7	8.0	7.0	7.2	8.3	8.0	3	33
+Yasaka Extra	7.4	9.0	4.1	3.9	8.3	9.1	24	40
+Yasaka Extra 3 D	8.1	8.7	3.7	3.7	10.0	8.7	3	35
+Yasaka Extra 3D Soft Carbon	8.2	8.2	4.5	7.1	10.0	8.4	4	60
+Yasaka Extra 7	8.1	8.3	5.5	5.6	10.0	8.7	4	30
+Yasaka Extra Offensive 7 Power	9.2	8.9	6.5	7.3	9.2	9.4	15	45
+Yasaka Extra Special	8.6	8.8	5.4	6.1	8.4	8.9	23	75
+Yasaka Galaxya	8.3	9.0	5.0	3.7	8.8	8.9	5	55
+Yasaka Galaxya Carbon	9.4	8.3	7.6	7.7	10.0	8.9	5	70
+Yasaka Galaxya Carbon Special	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	72
+Yasaka Gatien 2040	6.2	8.3	4.3	4.7	10.0	7.5	3	31
+Yasaka Gatien Allround	6.7	9.3	5.0	5.2	10.0	9.0	3	42
+Yasaka Gatien Carbon 3D	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	1	65
+Yasaka Gatien Extra	7.6	8.9	3.7	4.6	9.2	8.8	41	38
+Yasaka Gatien Extra 3D	7.8	8.6	3.0	4.7	9.0	8.6	7	42
+Yasaka Gatien OVERDRIVE Metal	8.6	8.5	6.7	6.9	10.0	8.9	7	40
+Yasaka Goiabao 5	9.4	9.1	5.9	7.1	9.8	9.6	26	52
+Yasaka Hasha Deluxe	9.8	8.5	7.0	8.2	10.0	10.0	3	63
+Yasaka Hasha Special	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	96
+Yasaka Henzell Platinum	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	0
+Yasaka Hinoki Leo 11	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	100
+Yasaka Hinoki Leo 7	9.1	9.0	4.6	7.0	9.0	9.1	5	80
+Yasaka Kan Yo Fiber Special	8.5	8.0	5.0	6.7	(not rated)	(not rated)	2	0
+Yasaka Katsura	7.0	7.0	7.0	8.2	10.0	8.0	1	52
+Yasaka Ma Lin Carbon	8.7	8.2	5.4	6.1	8.1	8.7	19	60
+Yasaka Ma Lin Extra Offensive	8.6	8.5	5.8	6.8	8.7	9.1	66	34
+Yasaka Ma Lin Extra Special	9.0	9.0	3.8	5.5	10.0	9.2	5	60
+Yasaka Ma Lin Hard Carbon	8.9	8.3	5.7	8.2	8.3	9.0	3	70
+Yasaka Ma Lin Max Carbon	9.2	9.0	6.0	7.1	10.0	9.1	5	54
+Yasaka Ma Lin Soft Carbon	7.8	8.0	4.8	4.1	6.0	8.3	17	50
+Yasaka Mark V Special Edition	7.7	7.8	4.3	5.2	7.5	7.2	3	39
+Yasaka Max Carbon 3D	9.7	8.3	8.9	8.9	9.3	9.3	15	62
+Yasaka Max Wood	9.1	7.8	6.2	6.7	7.0	8.6	6	41
+Yasaka Musashi	8.8	8.5	3.3	4.5	7.5	8.8	6	50
+Yasaka Musashi Carbon	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	72
+Yasaka Musashi Delux	8.9	9.0	5.6	4.6	10.0	9.0	7	44
+Yasaka Musashi Gold W76	9.5	9.0	7.0	5.2	10.0	9.5	1	109
+Yasaka Musashi Special	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	68
+Yasaka Offensive 40	8.5	10.0	5.0	10.0	5.0	10.0	1	39
+Yasaka Overdrive	9.0	8.8	7.0	5.2	10.0	9.4	1	45
+Yasaka Reinforce AC	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	70
+Yasaka Reinforce HC	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	70
+Yasaka Reinforce LT	8.7	9.3	5.0	5.2	10.0	9.9	2	70
+Yasaka Reinforce SI	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	70
+Yasaka Silverline 9 Wood	9.6	8.4	7.0	8.2	10.0	9.0	2	41
+Yasaka Silverline All Wood	8.4	9.2	6.2	7.0	10.0	9.3	6	34
+Yasaka Silverline Carbon	9.1	8.7	5.4	6.7	9.0	9.3	10	50
+Yasaka Spelancer	9.7	6.9	8.5	8.9	9.4	8.8	8	100
+Yasaka Sweden Classic	6.8	9.2	2.8	3.5	6.3	8.7	24	40
+Yasaka Sweden Classic Japan	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	40
+Yasaka Sweden Defensive	6.5	9.5	3.0	2.2	10.0	8.6	1	45
+Yasaka Sweden EK Carbon	9.0	8.4	7.5	6.0	10.0	9.1	2	56
+Yasaka Sweden Extra	7.9	9.5	2.7	4.1	9.5	9.3	15	42
+Yasaka Sweden Guardian	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	45
+Yasaka Sweeper	5.4	9.3	4.0	3.2	10.0	9.1	4	45
+Yasaka Swift S	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	32
+Yasaka Synergy	8.6	7.8	7.0	6.7	10.0	8.5	2	41
+Yasaka TwoFace	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	39
+Yasaka X1	9.4	7.4	6.9	6.5	7.2	8.3	10	46
+Yasaka Yagyu	8.0	9.0	5.0	6.7	10.0	8.5	1	33
+Yasaka Yagyu 3 (III)	9.5	8.8	8.5	9.1	10.0	8.8	2	48
+Yasaka Yagyu Carbon	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	80
+Yasaka Yagyu Delux	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	44
+Yasaka Yagyu Gold W86	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	109
+Yasaka Yagyu Special	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	(not rated)	0	68
