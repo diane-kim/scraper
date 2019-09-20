@@ -3,8 +3,8 @@
 import requests
 from bs4 import BeautifulSoup
 from multiprocessing import Pool
-
-target = open("data.txt", 'w')
+f = open("codes.txt", 'r')
+target = open("data.txt", 'w', 1)
 target.write("종목	코드	현재가	시가총액	W_PER	K_PER	E_PER	PBR	ROE 배당수익률\n")
 
 
@@ -21,7 +21,7 @@ def strip_exclude_number(str):
 
 
 def scrap(code):
-    data = list()
+    data = []
     print("code = " + code)
     resp = requests.get('https://finance.naver.com/item/main.nhn?code=' + code)
     soup = BeautifulSoup(resp.text, 'html.parser')
@@ -36,6 +36,7 @@ def scrap(code):
     try:
         roe = soup.select(".cop_analysis > .sub_section > table > tbody > tr")[5].select("td")[3].get_text().strip()
     except IndexError:
+        roe = ""
         print("no roe")
     dvr = safe_list_get_text(soup.select("#_dvr"), 0).strip()
     data.append(title)
@@ -51,14 +52,14 @@ def scrap(code):
     target.write("\t".join(data) + "\n")
 
 
-pool = Pool(processes=4)
-f = open("codes.txt", 'r')
-codes = list()
-for line in f:
-    codes.append(line.strip())
+if __name__ == '__main__':
+    pool = Pool(processes=16)
 
-pool.map(scrap, codes)
+    codes = []
+    for line in f:
+        codes.append(line.strip())
 
-
-f.close()
-target.close()
+    f.close()
+    pool.map(scrap, codes)
+    target.flush()
+    target.close()
