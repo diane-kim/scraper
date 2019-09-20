@@ -1,14 +1,18 @@
+# -*- coding: utf-8 -*-
+
 import requests
 from bs4 import BeautifulSoup
+from multiprocessing import Pool
 
-code = ""
+target = open("data.txt", 'w')
+target.write("종목	코드	현재가	시가총액	W_PER	K_PER	E_PER	PBR	ROE 배당수익률\n")
 
 
 def safe_list_get_text(element_list, index):
     try:
         return element_list[index].get_text()
     except IndexError:
-        #print("error : " + code)
+        # print("error : " + code)
         return ""
 
 
@@ -16,12 +20,8 @@ def strip_exclude_number(str):
     return ''.join(i for i in str if i.isdigit())
 
 
-f = open("codes.txt", 'r')
-target = open("data.txt", 'w')
-print("종목	코드	현재가	시가총액	W_PER	K_PER	E_PER	PBR	ROE 배당수익률")
-for line in f:
+def scrap(code):
     data = list()
-    code = line.strip()
     print("code = " + code)
     resp = requests.get('https://finance.naver.com/item/main.nhn?code=' + code)
     soup = BeautifulSoup(resp.text, 'html.parser')
@@ -49,6 +49,15 @@ for line in f:
     data.append(roe)
     data.append(dvr)
     target.write("\t".join(data) + "\n")
+
+
+pool = Pool(processes=4)
+f = open("codes.txt", 'r')
+codes = list()
+for line in f:
+    codes.append(line.strip())
+
+pool.map(scrap, codes)
 
 
 f.close()
