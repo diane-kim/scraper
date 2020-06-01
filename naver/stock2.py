@@ -30,17 +30,18 @@ def scrap(t, s):
             tds = []
             if not tags[i].select('td')[0].get_text().strip():
                 continue
-            for td in tags[i].select('td'):
-                tds.append(td.get_text().strip())
+            e = tags[i].select('td')
+            for j in range(1, len(e)):
+                tds.append(e[j].get_text().strip())
             try:
-                tds[12] = str(int(strip_exclude_number(tds[7])) / int(strip_exclude_number(tds[2])))
+                tds[11] = str(int(strip_exclude_number(tds[6])) / int(strip_exclude_number(tds[1])))
             except :
                 print("\t".join(tds) + " N/A")
             target.write("\t".join(tds) + "\n")
 
 
 if __name__ == '__main__':
-    titles = ["no", "종목명", "현재가", "전일비", "등락률", "액면가", "시가총액", "배당금", "PER", "ROE", "PBR", "유보율", "배당율"]
+    titles = ["종목명", "현재가", "전일비", "등락률", "액면가", "시가총액", "배당금", "PER", "ROE", "PBR", "유보율", "배당율"]
     target.write("\t".join(titles) + "\n")
     scrap(0, 32)
     scrap(1, 29)
